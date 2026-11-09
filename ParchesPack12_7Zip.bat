@@ -8,11 +8,11 @@ set "SEVENZIPDIR=E:\Program Files\7-Zip"
 :: xcopy "ArchivoMS" "Main" /s /y
 :: Hacer versión Microsoft Store en JPP12-ES-MS.zip
 :: CD "Main"
-:: "%SEVENZIPDIR%\7z.exe" a -tzip -y -bso0 -bsp0 "../../../Zips/JPP12-ES-MS.zip" "*"
+:: "%SEVENZIPDIR%\7z.exe" a -tzip -y -bso0 -bsp0 "../JPP12-ES-MS.zip" "*"
 :: CD ..
 
 :: Copiar y pegar "ArchivoSteam"
 xcopy "ArchivoSteam" "Main" /s /y
 :: Hacer versión Steam en JPP12-ES.zip
 CD "Main"
-"%SEVENZIPDIR%\7z.exe" a -tzip -y -bso0 -bsp0 "../../../Zips/JPP12-ES.zip" "*"
+"%SEVENZIPDIR%\7z.exe" a -tzip -y -bso0 -bsp0 "../JPP12-ES.zip" "*"
