@@ -1,0 +1,405 @@
+{
+ "content": [
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "sonreir",
+     "setupDecoy": "Modelaje"
+    },
+    {
+     "punchlineDecoy": "llorar",
+     "setupDecoy": "Los impuestos"
+    },
+    {
+     "punchlineDecoy": "tirar el traje de preso",
+     "setupDecoy": "Escapar la cárcel"
+    }
+   ],
+   "id": "119303",
+   "prompt": "¡Feliz día de {{BLANK}}!",
+   "punchline": "No te olvides de"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "te la devuelvo",
+     "setupDecoy": "robarte tu identidad"
+    },
+    {
+     "punchlineDecoy": "me parece bien decírtelo así",
+     "setupDecoy": "la separación"
+    }
+   ],
+   "id": "119304",
+   "prompt": "Disculpa por {{BLANK}}.",
+   "punchline": "Cruzo los dedos"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "muerde. con ganas.",
+     "setupDecoy": "tu nueva dentatura"
+    },
+    {
+     "punchlineDecoy": "elige la C. ¿o era la D?",
+     "setupDecoy": "tu examen importante"
+    }
+   ],
+   "id": "119307",
+   "prompt": "Buena suerte con {{BLANK}}.",
+   "punchline": "Ante la duda"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "eso apesta",
+     "setupDecoy": "te moriste"
+    },
+    {
+     "punchlineDecoy": "sí, queríamos que lo sepas",
+     "setupDecoy": "te la mandaste FEO"
+    }
+   ],
+   "id": "119308",
+   "prompt": "Escuchamos que tú {{BLANK}}.",
+   "punchline": "Queríamos que sepas"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "yo cuando entreguen las bolsas de regalo.",
+     "setupDecoy": "un Óscar"
+    },
+    {
+     "punchlineDecoy": "no por mucho",
+     "setupDecoy": "mi corazón"
+    }
+   ],
+   "id": "119309",
+   "prompt": "¡Ganaste {{BLANK}}!",
+   "punchline": "Recuerda,"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "Adderall",
+     "setupDecoy": "la universidad"
+    },
+    {
+     "punchlineDecoy": "eso. eso sí que es algo.",
+     "setupDecoy": "el apocalipsis"
+    }
+   ],
+   "id": "119311",
+   "prompt": "Sobreviviste {{BLANK}}.",
+   "punchline": "Gracias al cielo por",
+   "x": true
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "sean mejores que la primera.",
+     "setupDecoy": "segunda familia secreta"
+    },
+    {
+     "punchlineDecoy": "nadie más lo haya notado.",
+     "setupDecoy": "gran y vergonzoso error"
+    }
+   ],
+   "id": "119312",
+   "prompt": "Escuchamos sobre tu {{BLANK}}.",
+   "punchline": "Esperamos que",
+   "x": true
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "una merienda aesthetic!",
+     "setupDecoy": "gay"
+    },
+    {
+     "punchlineDecoy": "siempre!",
+     "setupDecoy": "secuestradores"
+    }
+   ],
+   "id": "119313",
+   "prompt": "Es oficial, somos {{BLANK}}.",
+   "punchline": "¡Únete a nosotros para",
+   "x": true
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "maldecir gente",
+     "setupDecoy": "a mejor vida"
+    },
+    {
+     "punchlineDecoy": "¿hacer malabares? ¿los payasos siguen haciendo eso? no quiero estereotipar",
+     "setupDecoy": "la escuela de payasos"
+    }
+   ],
+   "id": "119314",
+   "prompt": "¡Felicidades por pasar {{BLANK}}!",
+   "punchline": "Estás listo para"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "de lo peor",
+     "setupDecoy": "nada"
+    },
+    {
+     "punchlineDecoy": "víctima de un robo",
+     "setupDecoy": "el dinero"
+    }
+   ],
+   "id": "119523",
+   "prompt": "Gracias por {{BLANK}}",
+   "punchline": "Eres"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "parecido a la mantequilla",
+     "setupDecoy": "no sea mantequilla"
+    },
+    {
+     "punchlineDecoy": "loco",
+     "setupDecoy": "estoy atrapado en este objeto"
+    }
+   ],
+   "id": "119525",
+   "prompt": "¡Guau, no puedo creer que {{BLANK}}!",
+   "punchline": "Es tan"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "nacer rico",
+     "setupDecoy": "con tu vida"
+    },
+    {
+     "punchlineDecoy": "¡menos lengua!",
+     "setupDecoy": "atendiendo a los clientes"
+    }
+   ],
+   "id": "119526",
+   "prompt": "¡Hiciste un trabajo espantoso {{BLANK}}!",
+   "punchline": "Para la próxima, "
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "¡otra lista de quehaceres!",
+     "setupDecoy": "tu lista de quehaceres"
+    },
+    {
+     "punchlineDecoy": "dolor de pecho, náuseas, indigestión, dolor de estómago, ¡DIARREA!",
+     "setupDecoy": "la cena"
+    }
+   ],
+   "id": "119527",
+   "prompt": "¡Terminaste {{BLANK}}!",
+   "punchline": "A continuación,"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "me las comí",
+     "setupDecoy": "rastrar las hojas"
+    },
+    {
+     "punchlineDecoy": "puse en marcha el plan",
+     "setupDecoy": "disculparte"
+    }
+   ],
+   "id": "119530",
+   "prompt": "No te preocupes en {{BLANK}}",
+   "punchline": "Yo ya"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "era necesario",
+     "setupDecoy": "liberé a las abejas"
+    },
+    {
+     "punchlineDecoy": "que sería muy aterrador",
+     "setupDecoy": "Nunca miré Friends"
+    }
+   ],
+   "id": "119531",
+   "prompt": "Debo confesar que {{BLANK}}",
+   "punchline": "Es que pensaba"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "tu dinero del almuerzo",
+     "setupDecoy": "no molerte a golpes"
+    },
+    {
+     "punchlineDecoy": "Robux. La moneda del futuro.",
+     "setupDecoy": "la máquina del tiempo"
+    }
+   ],
+   "id": "119532",
+   "prompt": "Me debes una por {{BLANK}}",
+   "punchline": "Acepto"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "un momento vergonzoso que te persigue durante años",
+     "setupDecoy": "hombre"
+    },
+    {
+     "punchlineDecoy": "una década en exilio",
+     "setupDecoy": "mi reina"
+    }
+   ],
+   "id": "119534",
+   "prompt": "¡Alégrate, {{BLANK}}!",
+   "punchline": "Es solo"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "¡un alzamiento!",
+     "setupDecoy": "las elecciones"
+    },
+    {
+     "punchlineDecoy": "intercambio y trueque",
+     "setupDecoy": "todo tu dinero"
+    }
+   ],
+   "id": "119535",
+   "prompt": "Lamento que hayas perdido {{BLANK}}.",
+   "punchline": "Siempre hay"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "nuestra delgada atmósfera",
+     "setupDecoy": "Marte"
+    },
+    {
+     "punchlineDecoy": "la banda de marcha",
+     "setupDecoy": "la Black Parade"
+    }
+   ],
+   "id": "119536",
+   "prompt": "¡Bienvenido a {{BLANK}}!",
+   "punchline": "Te encantará"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "algo que no valió los 30 años de cárcel",
+     "setupDecoy": "ese robo"
+    },
+    {
+     "punchlineDecoy": "genial convertirse en CEO",
+     "setupDecoy": "una adquisición hostil"
+    },
+    {
+     "punchlineDecoy": "un buen descanso de ser capitán",
+     "setupDecoy": "el motín"
+    }
+   ],
+   "id": "119538",
+   "prompt": "Gracias por organizar {{BLANK}}.",
+   "punchline": "Fue"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "¡enseñarle palabrotas!",
+     "setupDecoy": "bebé"
+    },
+    {
+     "punchlineDecoy": "dejarle migas adentro",
+     "setupDecoy": "auto"
+    }
+   ],
+   "id": "119539",
+   "prompt": "Felicidades por tu nuevo {{BLANK}}.",
+   "punchline": "No puedo esperar para"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "la música disonante",
+     "setupDecoy": "Doctor Jazz"
+    },
+    {
+     "punchlineDecoy": "el fuego",
+     "setupDecoy": "Winky"
+    }
+   ],
+   "id": "120292",
+   "prompt": "¡Me llamo {{BLANK}}!",
+   "punchline": "Me encanta"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "todos los insectos",
+     "setupDecoy": "insectos"
+    },
+    {
+     "punchlineDecoy": "no siempre expresarlas de manera sana",
+     "setupDecoy": "emociones"
+    }
+   ],
+   "id": "120293",
+   "prompt": "¡Estoy lleno de {{BLANK}}!",
+   "punchline": "Disculpa por"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "me tiraron a un inodoro",
+     "setupDecoy": "sucio"
+    },
+    {
+     "punchlineDecoy": "¡estoy lleno de diamantes!",
+     "setupDecoy": "adinerado"
+    }
+   ],
+   "id": "120294",
+   "prompt": "Estoy un poco {{BLANK}}.",
+   "punchline": "Es porque"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "un montón de productos en mi garaje!",
+     "setupDecoy": "una oportunidad de inversión"
+    },
+    {
+     "punchlineDecoy": "¡tanto tiempo libre y no soy bueno en nada!",
+     "setupDecoy": "mis pasatiempos"
+    }
+   ],
+   "id": "120295",
+   "prompt": "Pregúntame sobre {{BLANK}}.",
+   "punchline": "Tengo"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "me compres un auto nuevo!",
+     "setupDecoy": "conducir"
+    },
+    {
+     "punchlineDecoy": "esperes mucho de mí. Ahora voy a dejar de hablar.",
+     "setupDecoy": "hablar con extraños"
+    }
+   ],
+   "id": "120296",
+   "prompt": "No me permiten {{BLANK}}.",
+   "punchline": "Así que no"
+  }
+ ]
+}
