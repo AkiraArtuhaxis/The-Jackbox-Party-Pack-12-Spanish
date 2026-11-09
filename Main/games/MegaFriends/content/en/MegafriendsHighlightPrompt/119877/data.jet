@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Guau, a nuestros colegas de aquí les encanta la canción “Mambo No. 5”. ¿Cuáles son algunas de sus palabras favoritas en esa canción? ¡Lou Be-rán todos!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestro amigo de aquí piensa que es taaaan cool. ¡Y TIENE RAZÓN! ¿Qué accesorio de “tipo cool” creen que debería incorporar a su look?"
+  }
+ ]
+}

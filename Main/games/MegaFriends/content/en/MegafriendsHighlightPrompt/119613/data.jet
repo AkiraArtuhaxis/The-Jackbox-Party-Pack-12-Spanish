@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Démosle a nuestro colega un podercito como del Rey Midas. Pero, en lugar de oro, ¡todo lo que toca se convierte en ESTO!"
+  }
+ ]
+}

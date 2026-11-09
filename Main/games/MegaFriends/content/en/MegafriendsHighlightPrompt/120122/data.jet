@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Nuestro amigo de aquí es indescriptible! ¡Pero algunas cosas igualmente deben ser descritas! ¿Cuáles son algunos adjetivos que creen que nuestro amigo de aquí disfrutaría?"
+  }
+ ]
+}

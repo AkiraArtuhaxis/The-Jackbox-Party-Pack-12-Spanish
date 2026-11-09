@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¿Cuál es una actividad que estos dos podrían hacer que sería perfecta para dos personas? ¡Como comer espaghetti juntos!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Desafiamos a nuestro amigo a que coma 50 de algo en 10 minutos... ¿qué va a comer?? En mi caso, ¡me como a mí!"
+  }
+ ]
+}

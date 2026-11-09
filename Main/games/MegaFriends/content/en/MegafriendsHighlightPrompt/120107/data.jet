@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Decidimos todos encargar una pintura al óleo de nuestro querido amigo. ¿Qué preciado objeto personal sostiene en ella? ¡Yo sostendría a todos mis amigos!"
+  }
+ ]
+}

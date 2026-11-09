@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Extrañaremos a nuestros amigos mientras se van a sus muy, muy importantes trabajos! ¡Es por eso que siempre nos aseguramos de ESTO antes de que vayan a trabajar!"
+  }
+ ]
+}

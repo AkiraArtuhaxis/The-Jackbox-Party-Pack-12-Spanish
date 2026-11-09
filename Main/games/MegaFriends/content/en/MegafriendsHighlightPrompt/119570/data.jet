@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Estos dos colegas están muy adelantados. Hagamos que se tropiecen con palabras que son... pegajosas."
+  }
+ ]
+}

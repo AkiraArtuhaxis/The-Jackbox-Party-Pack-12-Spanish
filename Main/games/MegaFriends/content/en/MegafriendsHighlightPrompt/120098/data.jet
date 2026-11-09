@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Awww! Nuestro amigo se ve tan angelical durmiendo. ¿Qué cosas lindas y tiernas está soñando?"
+  }
+ ]
+}

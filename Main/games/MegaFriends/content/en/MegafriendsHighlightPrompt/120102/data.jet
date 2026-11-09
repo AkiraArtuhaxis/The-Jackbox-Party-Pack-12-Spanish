@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Tengo un núcleo gelatinoso! ¿Cuál es un rasgo verdaderamente BUENO que nuestro amigo de aquí posee? ¡Con cuidado con mi núcleo!"
+  }
+ ]
+}

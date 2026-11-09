@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestro amigo de aquí está teniendo un ataque porque nos llevamos algo que siempre sostiene en sus manos. ¿Qué es?"
+  }
+ ]
+}

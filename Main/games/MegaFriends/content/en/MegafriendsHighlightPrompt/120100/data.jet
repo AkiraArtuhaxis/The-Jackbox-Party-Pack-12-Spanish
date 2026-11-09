@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Todos a veces necesitamos un descanso de las pantallas. ¿Qué app creemos que nuestro amigo borraría por 30 días? Días humanos, para ser claro."
+  }
+ ]
+}

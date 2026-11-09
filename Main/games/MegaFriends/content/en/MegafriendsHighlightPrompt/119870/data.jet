@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Hagamos videollamada con nuestro amigo! ¿Qué es algo que probablemente tiene en el fondo de su llamada?"
+  }
+ ]
+}

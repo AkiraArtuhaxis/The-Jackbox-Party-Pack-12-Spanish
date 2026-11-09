@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Dios lo bendiga, nuestro amigo es todo un santo. Pero, ¿de qué lugar son el santo patrón?"
+  }
+ ]
+}

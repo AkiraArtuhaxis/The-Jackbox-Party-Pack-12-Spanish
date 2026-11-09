@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Escribimos una canción sobre nuestro amigo. ¿Qué palabras describen el género de esa canción? O sea, “temón”, obvio...."
+  }
+ ]
+}

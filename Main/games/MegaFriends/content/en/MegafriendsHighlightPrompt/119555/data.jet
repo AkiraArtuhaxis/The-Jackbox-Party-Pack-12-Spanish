@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Nuestros colegas van a abrir un puesto de centro comercial juntos! ¿Qué producto completamente innecesario están vendiendo?"
+  }
+ ]
+}

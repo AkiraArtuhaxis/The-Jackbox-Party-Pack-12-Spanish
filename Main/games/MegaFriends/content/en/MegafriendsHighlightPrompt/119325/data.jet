@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¿Cuál es una palabra asquerosa que incomodaría a nuestros dos colegas de aquí? Para mí, es la frase “fila para gente sin acompañante”."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Oh oh. Nuestro amigo de aquí se metió DE LLENO en las mascotas exóticas. De hecho, acaba de adquirir ESTA."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Si tuvieramos que describir a nuestro amigo de aquí con una palabra ñoña inspiracional, sería: ESTA. ¡Ya saben! ¿Cómo los carteles que ponen en los baños del trabajo?"
+  }
+ ]
+}

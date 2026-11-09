@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "La amistad es, por supuesto, el verdadero tesoro. ¿Pero cuál es un VERDADERO tesoro que podríamos darle a nuestros amigos de aquí?"
+  }
+ ]
+}

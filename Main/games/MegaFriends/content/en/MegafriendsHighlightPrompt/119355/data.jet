@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Vamos al centro comercial para animar a nuestro amiguito de aquí. ¿A dónde primero, campeón?"
+  }
+ ]
+}

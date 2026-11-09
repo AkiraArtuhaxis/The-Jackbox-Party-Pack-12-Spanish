@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Estos amigos tienen un vínculo más fuerte que el acero! ¿Cuáles son otros materiales qué esta amistad supera en fortaleza?"
+  }
+ ]
+}

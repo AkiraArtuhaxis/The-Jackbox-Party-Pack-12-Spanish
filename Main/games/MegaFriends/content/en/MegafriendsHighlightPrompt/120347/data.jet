@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Estos dos suelen pensar similar. Y ahora SE VISTEN similar, cuando les colocamos nuestra nueva prenda basada en dénim, la ESTA."
+  }
+ ]
+}

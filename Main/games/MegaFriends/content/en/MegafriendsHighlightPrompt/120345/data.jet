@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestros amigos de aquí INSISTIERON que vayamos a Times Square estando en Nueva York. ¿Qué están tan desesperados para ver mientras estamos allí?"
+  }
+ ]
+}

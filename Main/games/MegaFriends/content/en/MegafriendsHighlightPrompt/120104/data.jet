@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Como todos saben, nuestro querido amigo es un robot. ¿Qué tarea específica fue creado para hacer? ¡¡Espero que sean abrazos!!"
+  }
+ ]
+}

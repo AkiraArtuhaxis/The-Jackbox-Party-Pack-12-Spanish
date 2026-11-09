@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¿Qué es algo que nuestro generoso amigo tiene que compartiría felizmente con nosotros? ¿Como dulces? ¿Espero? ¿Dulces?"
+  }
+ ]
+}

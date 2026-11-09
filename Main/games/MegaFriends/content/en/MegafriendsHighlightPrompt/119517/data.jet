@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡A nuestro amigo tiene un nuevo compañero, un objeto inanimado que cobró vida! ¿Cuál es su nuevo mejor amigo?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Nuestro amigo está en el puesto de comida del gran partido! ¿Qué está vendiendo? ¡¡Con mucho queso, babyyy!!"
+  }
+ ]
+}

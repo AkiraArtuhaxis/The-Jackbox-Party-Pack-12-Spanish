@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Felicidades! Nuestros dos amigos de aquí acaban de recibir un ascenso en el trabajo por lo bien que trabajan juntos. ¡Ahora son Directores Oficiales de ESTO!"
+  }
+ ]
+}

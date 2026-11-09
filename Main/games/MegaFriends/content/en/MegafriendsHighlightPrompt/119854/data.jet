@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Miren! Nuestro amigo encontró ese abrigo que no vestía desde hace tiempo. ¿Qué había dejado olvidado en su bolsillo desde el último invierno? Mmm, hilos."
+  }
+ ]
+}

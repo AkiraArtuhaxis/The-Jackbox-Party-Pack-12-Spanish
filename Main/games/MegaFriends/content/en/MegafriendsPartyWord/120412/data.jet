@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasResponseAudio"
+  },
+  {
+   "t": "A",
+   "v": "response",
+   "n": "ResponseAudio",
+   "s": "¡Ja! Muy buena. Nada que ver, pero ¿puedo recomendarte una línea para crisis?"
+  }
+ ]
+}

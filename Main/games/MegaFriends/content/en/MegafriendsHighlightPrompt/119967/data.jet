@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Nuestros amigos han sido invitados a una escuela para atemorizantes pequeñines superpoderosos! ¿Qué superpoderes comparten?"
+  }
+ ]
+}

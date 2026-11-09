@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestro amigo es tan poderoso, ¡parece brujo! ¿Qué animal creen que sería su familiar mágico?"
+  }
+ ]
+}

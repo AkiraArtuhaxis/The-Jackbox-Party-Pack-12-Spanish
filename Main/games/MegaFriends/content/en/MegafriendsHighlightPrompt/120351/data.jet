@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestros colegas de aquí están organizando una cena para celebrar su amistad! Deberíamos ser buenos invitados y traer ESTO."
+  }
+ ]
+}

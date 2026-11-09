@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Si les damos a nuestros colegas 25 dólares y los soltamos en la tienda de regalos del museo, ¿qué se comprarían para sí mismos?"
+  }
+ ]
+}

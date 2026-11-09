@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡A ponerse sus polainas, gente! ¡Nuestro amigo es el acto de cierre de nuestro show de talentos! ¿Pero QUÉ va a hacer?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Las rosas son rojas, ¡pero nuestro amigo es azul! ¿Qué tipo de flor le elegirías tú? Porque eres TRISTE."
+  }
+ ]
+}

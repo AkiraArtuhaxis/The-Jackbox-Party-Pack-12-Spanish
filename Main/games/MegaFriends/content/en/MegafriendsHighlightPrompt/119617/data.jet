@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Saluden a este noble par! Os ruego saber, ¿qué símbolo deberíamos pintar sobre su cota de armas de la amistad?"
+  }
+ ]
+}

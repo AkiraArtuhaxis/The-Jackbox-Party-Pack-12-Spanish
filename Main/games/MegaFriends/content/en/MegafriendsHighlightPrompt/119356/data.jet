@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Esta dupla necesita un cambio de look. ¿Qué accesorios alegres creen que les quedarían bien?"
+  }
+ ]
+}

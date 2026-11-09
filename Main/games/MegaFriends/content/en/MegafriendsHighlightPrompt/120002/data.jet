@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Aww, nuestro amigo de aquí nos trajo una botella de vino! Dice que el sabor tiene fuertes notas de ESTO. Claro, amigo, claro."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Hora de que la banda de la amistad se una! Nuestro amigo nos construyó un escondite en un abandonado... ¿en qué cosa abandonada?"
+  }
+ ]
+}

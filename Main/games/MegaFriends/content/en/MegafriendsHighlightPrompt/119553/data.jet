@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Démosle un pequeño susto a nuestros amigos! ¿Cuál es una palabra que los asustaría? Yo tengo miedo de la palabra “PALABRA”. ¡AHHH!"
+  }
+ ]
+}

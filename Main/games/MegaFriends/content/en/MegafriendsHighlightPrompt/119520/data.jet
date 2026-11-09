@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Yupi! A nuestro amigo de aquí le toca elegir la próxima actividad divertida al aire libre para realizar. ¿Qué vamos a hacer?"
+  }
+ ]
+}

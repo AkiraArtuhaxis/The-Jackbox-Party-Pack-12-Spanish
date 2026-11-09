@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Para nuestro amigo, de todos sus regalos, ¿qué es la cosa favorita que tiene el océano para ofrecer?"
+  }
+ ]
+}

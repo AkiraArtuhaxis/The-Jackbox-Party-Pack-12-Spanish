@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Bienvenidos al bufet, colegas! ¿Cuáles son dos cosas que SABEMOS que nuestros dos amigos de aquí no comerían?"
+  }
+ ]
+}

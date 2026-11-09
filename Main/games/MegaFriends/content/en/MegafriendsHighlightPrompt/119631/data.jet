@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Cascos colocados! Nuestros amigos se encuentran en un sitio de construcción activo. En el nombre de la amistad, ¿qué están construyendo?"
+  }
+ ]
+}

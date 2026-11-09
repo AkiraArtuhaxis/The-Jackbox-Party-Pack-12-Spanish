@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Pasar el verano con nuestros amigos es genial! ¿Cuáles son algunas cosas que nuestros amigos ADORAN del verano?"
+  }
+ ]
+}

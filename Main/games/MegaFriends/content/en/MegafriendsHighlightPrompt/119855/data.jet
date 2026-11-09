@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Todos hicimos un muñeco de nieve. ¿Qué toque final le da nuestro colega que puede que, o puede que no, haga que cobre vida?"
+  }
+ ]
+}

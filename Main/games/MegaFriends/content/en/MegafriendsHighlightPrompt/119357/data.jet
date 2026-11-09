@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Que en Pals descanse.... Nuestro colega está por recibir su última comida. ¿Cuál sería una buena comida con la que despedirse?"
+  }
+ ]
+}

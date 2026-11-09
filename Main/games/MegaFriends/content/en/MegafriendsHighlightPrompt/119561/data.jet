@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Estos dos acaban de declarar un nuevo feriado. ¡Feliz Día Internacional de ESTO! Y sí, los bancos están cerrados."
+  }
+ ]
+}

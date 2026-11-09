@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestros colegas necesitan una buena copa nocturna. ¿Qué bebida mejor combina con el plato principal de su amistad?"
+  }
+ ]
+}

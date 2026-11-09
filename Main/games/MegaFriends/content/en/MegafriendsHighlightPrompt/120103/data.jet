@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Vamos a invadirle el refrigerador a nuestro amigo! Está vacío. ¿Qué podemos meter DENTRO que podría gustarle? ¡No pueden vivir a mostaza! ¡¡Lo he intentado!!"
+  }
+ ]
+}

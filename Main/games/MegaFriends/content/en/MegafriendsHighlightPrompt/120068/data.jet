@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¿Asesinato? ¿Caos? ¡¿Misterio?! Si este jugador escribiera una novela, ¿de qué género sería?"
+  }
+ ]
+}

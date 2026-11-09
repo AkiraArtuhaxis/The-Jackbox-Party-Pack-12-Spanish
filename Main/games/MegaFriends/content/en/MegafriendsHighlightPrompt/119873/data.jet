@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Somos MegaPals en CTIM! ¿Cuáles son algunas palabras científicas que creen que a nuestros amigos les gustarían?"
+  }
+ ]
+}

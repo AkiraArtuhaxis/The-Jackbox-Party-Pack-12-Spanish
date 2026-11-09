@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡De viaje con los amigos, huzzah! ¿Qué es lo que pone nuestro amigo en el estereo? Espero haberlo dicho bien... ¿estereo? ¿Esteeeereo?"
+  }
+ ]
+}

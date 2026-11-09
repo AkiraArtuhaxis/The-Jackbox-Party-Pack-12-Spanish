@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Demuestra que la amistad de estos dos no te genera resentimiento nombrando cosas dulces y tiernas que les gustan."
+  }
+ ]
+}

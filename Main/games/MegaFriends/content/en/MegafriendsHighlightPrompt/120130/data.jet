@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "A nuestro amigo le va tan bien que está aburrido. ¡Listemos un montón de hombres pelados que creemos que podrían interesarle!"
+  }
+ ]
+}

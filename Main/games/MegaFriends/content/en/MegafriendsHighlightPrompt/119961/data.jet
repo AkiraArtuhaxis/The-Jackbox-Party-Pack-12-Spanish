@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Estos colegas han ganado el gran premio de un programa de juegos! ¿Qué hay detrás de la Puerta de la Amistad Número 3?"
+  }
+ ]
+}

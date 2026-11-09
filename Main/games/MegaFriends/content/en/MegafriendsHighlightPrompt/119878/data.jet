@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¿Cuáles son algunas cosas que nuestros amigos dirían si les pidiéramos completar esta frase? “Estrella ESTO”"
+  }
+ ]
+}

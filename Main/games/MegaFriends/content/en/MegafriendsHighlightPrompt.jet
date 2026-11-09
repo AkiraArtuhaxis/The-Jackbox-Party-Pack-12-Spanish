@@ -1,0 +1,1190 @@
+{
+ "content": [
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "117907",
+   "prompt": "¡Oye, tú! ¡Tú ahí! ¡Danos tu billetera! ¡Sabemos que está llena de {{BLANK}}!"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "117911",
+   "prompt": "¡Nuestro compadre se raspó la rodilla! ¡Démosle {{BLANK}} para que se sienta mejor."
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "117919",
+   "prompt": "¡Vamos a llevar a nuestro amigo en un viaje! Aquí tienes un vuelo de turista a {{BLANK}}."
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "117923",
+   "prompt": "Hagamos una vela para nuestro compinche. Tiene un fuerte olor a {{BLANK}}."
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "117927",
+   "prompt": "¿Qué es algo de lo que esta persona probablemente tiene una foto en su teléfono?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "117928",
+   "prompt": "¡Demos a nuestro amigo un tatuaje mientras duerme! ¿Qué quieren tatuarle?",
+   "x": true
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119324",
+   "prompt": "Démosle un bouquet de algo a nuestro amigo. ¡Está lleno de {{BLANK}}!"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119325",
+   "prompt": "¿Cuál es una palabra asquerosa que haría que nuestros dos colegas de aquí se retuerzan?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119326",
+   "prompt": "Distraigamos a estos dos poniendo un delicioso {{BLANK}} en la ventana."
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "119351",
+   "prompt": "¡Nuestros amigos se fugaron! ¿Qué objeto los atraerá a una trampa?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119352",
+   "prompt": "Firmemos el anuario de nuestro amigo. ¿Qué te gustaría decirle a nuestro graduado?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119354",
+   "prompt": "Estos dos acaban de conseguir trabajo en el canal de compras para el hogar. ¿Qué venden?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119355",
+   "prompt": "Vamos al centro comercial para animar a nuestro amiguito. ¿A dónde primero, campeón?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "119356",
+   "prompt": "Esta dupla necesita un cambio de look. ¿Qué accesorios alegres necesitan?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119357",
+   "prompt": "Nuestro colega está por recibir su última comida. ¿Cuál sería una buena comida con la que despedirse?",
+   "x": true
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119358",
+   "prompt": "Estos dos necesitan un subidón. ¡Inspíralos con frases de {{BLANK}}!"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119359",
+   "prompt": "Cómo contestarían nuestros colegas a esto : “¿Qué es algo duro que se va con el tiempo?”"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119462",
+   "prompt": "Si nuestro amigo pudiera convertirse en CUALQUIER animal, ¿cuál querrías que sea?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119465",
+   "prompt": "¡Nuestro amigo consiguió trabajo en un estadio! ¿Qué tipo de trabajo relacionado al béisbol tiene?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119467",
+   "prompt": "¡Nuestro amigo tiene montones de {{BLANK}} en su casa!"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119469",
+   "prompt": "Si nuestro colega obtuviera mucho dinero, ¡lo sabríamos por su compra repentina de {{BLANK}}!"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119471",
+   "prompt": "Nuestro amigo aquí presente es un santo. Pero, ¿de qué lugar son el santo patrón?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119515",
+   "prompt": "¡Animemos a nuestro amigo con una caricatura! ¿Qué debería sostener en el dibujo?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119516",
+   "prompt": "Nuestro amigo necesita motivación, ¡así que que está siendo perseguido por un montón de {{BLANK}}!"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119517",
+   "prompt": "¡A nuestro amigo le cobró vida un objeto inanimado! ¿Cuál es su nuevo mejor amigo?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119520",
+   "prompt": "Nuestro amigo puede elegir la próxima actividad divertida al aire libre para realizar. ¿Qué vamos a hacer?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119521",
+   "prompt": "¿Qué es algo de por aquí que nuestro colega debería mirar en su lugar?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119550",
+   "prompt": "¿Qué es algo que le generará un cosquilleo a nuestro amigo? Literal o figurativamente."
+  },
+  {
+   "category": "SOLO",
+   "countrySpecific": true,
+   "familiarity": "FRIENDS",
+   "id": "119551",
+   "prompt": "Si le damos a nuestro amigo una tarjeta de regalo para comida de 300 dólares, ¿qué comprarían con ella?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "119553",
+   "prompt": "¡Démosle un susto a esta dupla! ¿Cuál es una palabra que los asustaría?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119554",
+   "prompt": "Nuestro amigo aquí presente está organizando una fiesta temática de una película. ¿Cuál es el tema?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119555",
+   "prompt": "¡Nuestros colegas van a abrir un puestito de centro comercial! ¿Qué venden?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119556",
+   "prompt": "¿Cuál es una actividad que esta dupla podría hacer que es perfecta para dos personas?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119557",
+   "prompt": "Esta dupla decidió tomar una clase extracurricular juntos. ¿De qué trata?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119560",
+   "prompt": "Nuestros colegas fueron al evento familiar y ganaron un concurso. ¿Qué clase de concurso?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "119561",
+   "prompt": "Esta dupla ha declarado un nuevo feriado. ¡Feliz día internacional de {{BLANK}}!"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119562",
+   "prompt": "¿A qué restaurante fast casual nos llevarán nuestros colegas?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119563",
+   "prompt": "Nuestro amigo no nos necesita. ¿Cuál es una actividad individual que le podemos sugerir?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "119566",
+   "prompt": "Demuestra que esta amistad no te genera resentimiento nombrando cosas tiernas que les gustan."
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119567",
+   "prompt": "Nuestro amigo está atrapado en este juego. ¿En dónde más podría estar atrapado?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119568",
+   "prompt": "¡Enviémosle a nuestro amigo una suscripción mensual a {{BLANK}}!"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "119569",
+   "prompt": "¿Qué trabajo crees que estos dos querían hacer cuando eran niños?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119570",
+   "prompt": "Haz tropezar a estos amigos con palabras que son... pegajosas."
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119589",
+   "prompt": "¡Le daremos a nuestro amigo una bolsa para que llene en la tienda de golosinas! ¿Qué colocará adentro?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119590",
+   "prompt": "¡Nuestro amigo es el acto de cierre para nuestro show de talentos! ¿Qué va a hacer?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119591",
+   "prompt": "¡Vamos a tomar cosas del cajón de nuestro amigo! ¿Qué deberíamos tomar?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119592",
+   "prompt": "Nuestro amigo necesita un momento de silencio. ¡Por eso vamos a mandarlo a {{BLANK}}!"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119594",
+   "prompt": "¡Nuestro colega está trabajando en el stand de comida del estadio! ¿Qué vende?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119595",
+   "prompt": "Acabamos de sacarle algo a nuestro amigo de las manos. ¿Qué es?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119596",
+   "prompt": "¡Mascota sorpresa! ¿De qué animal nuestro amigo de aquí ahora es responsable?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119599",
+   "prompt": "Rayos, a nuestro colega le agarró un dolor de estómago por comer {{BLANK}} en la feria."
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119600",
+   "prompt": "Nuestro colega de aquí es tan fuerte que una vez levantó... ¿qué era lo que levantó?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119601",
+   "prompt": "Estamos muy seguros de que nuestro amigo podría convencernos de que {{BLANK}} es real.",
+   "x": true
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119602",
+   "prompt": "¡Nuestro amigo no para de tirar {{BLANK}} sobre el trampolín para ver si rebota!"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119603",
+   "prompt": "¡Acaban de nombrar un sándwich en honor a nuestros amigos! ¿Cuál es el ingrediente principal?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119604",
+   "prompt": "¿Qué es algo sencillo del exterior que puede brindar una sonrisa a la cara de nuestros colegas?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119605",
+   "prompt": "Nuestros amigos tienen un plan para la dominación mundial. ¿Dónde queda su guarida secreta?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "119606",
+   "prompt": "Colega uno y colega dos, sentados en un árbol. ¿Qué están H-A-C-I-E-N-D-O?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119607",
+   "prompt": "¡Nuestros colegas llegaron a Hollywood! ¿Qué tipo de película deberían hacer?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119608",
+   "prompt": "Cuando estos dos se juntan en el parque de la ciudad, ¿cuál es el primer lugar al que van?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119612",
+   "prompt": "¿Qué deporte buscan dominar estos dos?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119613",
+   "prompt": "¡En lugar de en oro, todo lo que nuestro amigo toca se convierte en {{BLANK}}!"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119615",
+   "prompt": "¡Estos dos están horneando un pastel! ¿Qué sabor especial tiene?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "119617",
+   "prompt": "¡Miren a este noble par! ¿Qué símbolo debería ir sobre su cota de armas de la amistad?"
+  },
+  {
+   "category": "MEGAPALS",
+   "countrySpecific": true,
+   "familiarity": "FRIENDS",
+   "id": "119618",
+   "prompt": "¡Chist, chist! ¿Qué hizo este par para que los amonestaran?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119619",
+   "prompt": "¿Qué les podemos conseguir a estos colegas de la tienda de regalos del aeropuerto?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119629",
+   "prompt": "Estos colegas son compañeros del crimen. ¿Qué cosas valiosas robarán primero?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119630",
+   "prompt": "Si tuvieran que describir a nuestro amigo con una palabra inspiracional, sería {{BLANK}}."
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119631",
+   "prompt": "Estos dos trabajan en una obra de construcción activa. ¿Qué están construyendo?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119632",
+   "prompt": "¡Estos dos van a clase de acuarelas juntos! ¿Qué están pintando?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "119635",
+   "prompt": "¡Estos dos se están postulando juntos! Su promesa de campaña: ¡todos reciben {{BLANK}}!"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119637",
+   "prompt": "¿Qué palabra escriben estos dos colegas arriba en el cielo?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119638",
+   "prompt": "ÚLTIMO MOMENTO: ¡Estos dos fueron avistados intentando escalar {{BLANK}}!"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119785",
+   "prompt": "¡Llevemos a nuestro colega al casino! ¿Qué actividad hacemos primero?",
+   "x": true
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119826",
+   "prompt": "¿Cuál es un VERDADERO tesoro que deberíamos darle a nuestros amigos de aquí?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "119827",
+   "prompt": "Esta amistad está orgullosamente esponsoreada por: {{BLANK}}."
+  },
+  {
+   "category": "MEGAPALS",
+   "countrySpecific": true,
+   "familiarity": "STRANGERS",
+   "id": "119828",
+   "prompt": "Si le diéramos 25 dólares a nuestros colegas, ¿qué se comprarían en la tienda de regalos del museo?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119829",
+   "prompt": "¿Cuál es una cosa no automovilística que nuestros colegas se verían MUY COOL conduciendo?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119830",
+   "prompt": "¿Cuál es una bebida nocturna que combina mejor con la amistad de esta dupla?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119831",
+   "prompt": "¡Hagamos una estatua en honor a estos amigos! Está hecha de {{BLANK}}."
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "119832",
+   "prompt": "¡Nuestros colegas de aquí han formado un nuevo canal de streaming! Solo juegan {{BLANK}}."
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "119833",
+   "prompt": "Combinemos los nombres de estos dos. ¡Su nuevo nombre de SHIP AMISTOSO es {{BLANK}}!"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119835",
+   "prompt": "¡Estos dos van a hacer nuestros quehaceres! ¡Diviértanse limpiando nuestro/a {{BLANK}}!"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119836",
+   "prompt": "Llevemos a nuestros amigos a la feria medieval y disfracémoslos de {{BLANK}}."
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119843",
+   "prompt": "¡Nuestro compa está preparado para lo que sea! ¿Qué encontramos en su caja de herramientas?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119844",
+   "prompt": "¿Qué vio nuestro amigo en la vidriera de la tienda que lo hizo detenerse en seco?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119845",
+   "prompt": "¿Qué es algo que nuestro amigo tiene que compartiría felizmente con todos nosotros?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119850",
+   "prompt": "Nuestro amigo nos guardó un asiento en un evento muy caro. ¿Dónde estamos?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119851",
+   "prompt": "Nuestro amigo vio algo genial desde la ventana del avión. ¿Qué es?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119852",
+   "prompt": "Nuestro compa elige probar algo antes de comprarlo. ¿Qué cosa?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119854",
+   "prompt": "¿Qué se olvidó nuestro amigo en el bolsillo de su abrigo?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119855",
+   "prompt": "¡Hicimos un muñeco de nieve! ¿Qué le agrega este colega?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119864",
+   "prompt": "¿Cuáles son cosas en el bufet que SABEMOS que nuestros amigos no deberían comer?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119865",
+   "prompt": "Nuestro amigo recibe una llamada. ¿Quién sería alguien que podría estar llamándole?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119866",
+   "prompt": "¿Cuáles son algunas palabras de economía que podemos usar para impresionar a nuestros amigos?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119869",
+   "prompt": "¿Cuáles son algunas cosas que nuestros amigos AMAN del verano?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119870",
+   "prompt": "¿Qué es algo que probablemente veas en el fondo de la videollamada de nuestro compa?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119872",
+   "prompt": "¿Qué es algo que nuestro amigo colocaría delante del refrigerador?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119873",
+   "prompt": "¿Cuáles son algunas palabras científicas que creen que a nuestros amigos les gustarían?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119875",
+   "prompt": "¡Nuestro compa alquiló una limosina para un evento especial! ¿A dónde vamos?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119876",
+   "prompt": "Susurremos algunas palabras tranquilizantes en las orejas de nuestros amigos, como {{BLANK}}."
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119877",
+   "prompt": "¿Cuáles son algunas de las palabras favoritas de nuestros amigos en la canción “Mambo No. 5”?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119878",
+   "prompt": "¿Cómo completarían nuestros amigos la siguiente frase? “Estrella {{BLANK}}”"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119879",
+   "prompt": "¡Nuestros amigos son sensibles! Por eso nos aseguramos que su comida esté libre de {{BLANK}}."
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "119880",
+   "prompt": "Acurruquémonos a nuestros amigos y miremos {{BLANK}} por centésima vez."
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119881",
+   "prompt": "¿Cuál es una palabra tranquilizante que inmediatamente pondría cómodo a nuestro amigo de aquí?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119884",
+   "prompt": "Dejaremos que nuestro amigo elija UNA cosa de la juguetería. ¿Qué cosa?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119886",
+   "prompt": "Nuestro amigo quiere que veamos este video que vio en internet. ¿De qué trata el video?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119887",
+   "prompt": "Nuestro amigo nos pide: “¿Puedes sostener esto un momento?” ¿Qué nos entrega?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119894",
+   "prompt": "Nuestro amigo se las arregla por su cuenta para todo. Hasta hace su propio {{BLANK}}."
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119896",
+   "prompt": "¡Es el día para anotarse a las actividades de campamento! ¿A qué se anota nuestro amigo?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119897",
+   "prompt": "¿Qué es la cosa favorita que tiene el océano para ofrecer?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119898",
+   "prompt": "Nuestro súper genial amigo nos trae algo asombroso para el patio. ¿Qué es?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119899",
+   "prompt": "Escribimos una canción sobre nuestro amigo. ¿Qué palabras describen el género de esa canción?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119900",
+   "prompt": "Nuestro amigo es un alma caritativa, ¡así que lo anotamos para que done su(s) {{BLANK}}!"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "119902",
+   "prompt": "¡Nuestro compa acaba de convertirse en Presidente! ¿De qué?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "119903",
+   "prompt": "¿Qué evento especial espera nuestro amigo todos los años?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119960",
+   "prompt": "¿Cuáles son palabras impresionantes de negocios que creemos que a nuestros amigos les van a gustar?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119961",
+   "prompt": "¿Qué primer premio de programa de juegos para nuestros colegas se encuentra detrás de la Puerta de la Amistad Número 3?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119963",
+   "prompt": "¿Qué pestañas de navegador nuestros amigos probablemente tienen abiertas ahora mismo?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119964",
+   "prompt": "Con estos dos Y YO, podemos hacer actividades de tres personas, como {{BLANK}}."
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119966",
+   "prompt": "¿Qué delito menor creen que a nuestros amigos se les daría MUY bien?",
+   "x": true
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119967",
+   "prompt": "En una escuela para niños superpoderosos, ¿qué superpoderes compartirían nuestros colegas de aquí?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119969",
+   "prompt": "Asustemos a nuestros amigos escribiendo fobias razonables, ¡como {{BLANK}}!"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119970",
+   "prompt": "¿Qué dejamos en el vestuario de nuestros colegas para su GRAN presentación?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119972",
+   "prompt": "Nuestros amigos están como locos. ¿Cuál es una actividad de interiores que podría calmarlos?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "119974",
+   "prompt": "¿Cuáles son tecnologías antiguas que creen que nuestros amigos podrían extrañar?"
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "STRANGERS",
+   "id": "119995",
+   "prompt": "¡Nuestro colega es un ganador! ¿Qué clase de cosa brillante deberíamos darle como recompensa?"
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "STRANGERS",
+   "id": "119996",
+   "prompt": "¿Qué actividades playeras creen que nuestro colega de aquí disfrutaría?"
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "FRIENDS",
+   "id": "119997",
+   "prompt": "Distraigamos a nuestro colega con un cartel publicitando {{BLANK}}."
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "FRIENDS",
+   "id": "119998",
+   "prompt": "¿Qué animal creen que sería el familiar mágico del brujo de nuestro amigo?"
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "STRANGERS",
+   "id": "119999",
+   "prompt": "Nuestro colega de aquí está de compras en la tienda de regalos en la carretera. ¿Qué va a conseguir?"
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "FRIENDS",
+   "id": "120000",
+   "prompt": "¿Qué accesorio \"con onda\" podría incorporar nuestro colega a su look?"
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "STRANGERS",
+   "id": "120001",
+   "prompt": "Hagámosle a nuestro amigo su propio perfume. Tiene fuertes notas de {{BLANK}}."
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "STRANGERS",
+   "id": "120002",
+   "prompt": "¡Nuestro amigo nos trajo una botella de vino! Dice que el gusto tiene notas de {{BLANK}}.",
+   "x": true
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "FRIENDS",
+   "id": "120004",
+   "prompt": "En la primaria, nuestro colega fue votado “Más probable que {{BLANK}}”."
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "STRANGERS",
+   "id": "120005",
+   "prompt": "Cómo completaría nuestro amigo la frase: “¡Despacio! Cruce de {{BLANK}}”"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "120033",
+   "prompt": "Vamos a diseñar una bandera personal para este colega. ¿Cuál es su color principal?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "120036",
+   "prompt": "Imprimiremos dinero con la cara de este amigo, ¿pero cuánto valdrá?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "120037",
+   "prompt": "¡Este amigo acaba de tener un cóctel nombrado en su honor! ¿Con qué se decora?",
+   "x": true
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120038",
+   "prompt": "Si nuestro colega de aquí fuera un fantasma, ¿cuál sería un buen lugar para embrujar?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "120041",
+   "prompt": "Nuestro amigo anda con las mascotas exóticas. Acaba de adquirir {{BLANK}}."
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120066",
+   "prompt": "¡Nuestro colega acaba de abrir su propio restaurante! La única cosa en el menú: {{BLANK}}."
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120068",
+   "prompt": "Si este jugador escribiera una novela, ¿de qué género sería?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120075",
+   "prompt": "Nuestro amigo mágico puede sacar cualquier cosa de un sombrero. ¿Qué saca ahora?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "120076",
+   "prompt": "¡Nuestro amigo promete jugar un juego con nosotros cuando terminemos! ¿¿Qué juego??"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "120077",
+   "prompt": "¿Cuál es una especia ESENCIAL en el especiero de nuestro amigo?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120078",
+   "prompt": "¡Nuestro amigo tiene algunas antigüedades interesantes! ¿Qué nos muestra?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "120079",
+   "prompt": "¡Las rosas son rojas, nuestro amigo es azul! ¿Qué tipo de flor le elegirías tú?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "120083",
+   "prompt": "¡Nos quedamos toda la noche en un comedor de 24 horas! ¿Qué pide nuestro amigo?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120086",
+   "prompt": "¡Hora de pijamada! ¿Qué actividad nocturna planea para nosotros nuestro amigo?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120087",
+   "prompt": "¿A quién saca a bailar nuestro amigo en la pista de baile?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120088",
+   "prompt": "¡Sobras! ¿Qué parte de la cena de ayer estamos recalentando para nuestro amigo?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120090",
+   "prompt": "¡Recompensemos a nuestro amigo con una actividad nocturna! ¿Qué pasatiempo le gustaría?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "120091",
+   "prompt": "Nuestro amigo tiene canje con una marca, y ahora solo se humecta con {{BLANK}}."
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120092",
+   "prompt": "¡Admiremos el régimen diario de este amigo! ¿Qué es algo que hacen todos los días?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120093",
+   "prompt": "Molestamos a nuestro amigo y SE ENOJÓ. ¿En qué animal podría transformarse?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120095",
+   "prompt": "Desafiamos a nuestro amigo a que coma 50 de algo en 10 minutos. ¿Qué come?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "120096",
+   "prompt": "Nuestro amigo nos construyó una guarida secreta en un abandonado... ¿qué había dicho que era?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120098",
+   "prompt": "Nuestro amigo se ve tan angelical durmiendo. ¿Qué cosas lindas está soñando?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120099",
+   "prompt": "¡Vamos de paseo! ¿Qué artista musical hace sonar en los parlantes nuestro amigo?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120100",
+   "prompt": "Todos necesitamos descansar de las pantallas. ¿Qué app borraría por 30 días nuestro colega?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120102",
+   "prompt": "¿Cuál es un rasgo BUENO que nuestro amigo de aquí posee?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120103",
+   "prompt": "El refrigerador de nuestro amigo está vacío. ¿Qué podemos colocar adentro que le podría gustar?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "120104",
+   "prompt": "Nuestro querido amigo es un robot. ¿Para qué tarea específica fue creado?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120105",
+   "prompt": "¿Hacia dónde quiere viajar nuestro amigo usando nuestra máquina del tiempo?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "120106",
+   "prompt": "¡Nuestro amigo está tirando dardos para ver a dónde deberíamos viajar! ¿A quién lastimó con los dardos?"
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "FRIENDS",
+   "id": "120107",
+   "prompt": "Encargamos una pintura de nuestro amigo. ¿Qué objeto está sosteniendo?"
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "FRIENDS",
+   "id": "120121",
+   "prompt": "¿Qué es algo que haría que nuestro amigo de por aquí salte de su asiento?"
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "STRANGERS",
+   "id": "120122",
+   "prompt": "¿Cuáles son algunos adjetivos que creen que nuestro amigo de aquí disfrutaría?"
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "STRANGERS",
+   "id": "120123",
+   "prompt": "¡Nuestro amigo de aquí adora el cine! ¿Cuáles son algunos términos cinéfilos que podemos decir para impresionarlo?"
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "STRANGERS",
+   "id": "120127",
+   "prompt": "¡Distraigamos a nuestro amigo con algo brillante y llamativo, como {{BLANK}}!"
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "STRANGERS",
+   "id": "120129",
+   "prompt": "Nuestro colega es tan joven, que no sabe cómo manejar ESTA cosa vieja: {{BLANK}}."
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "STRANGERS",
+   "id": "120130",
+   "prompt": "¡Listemos un montón de hombres calvos que creemos que a nuestro amigo le agradarían!"
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "STRANGERS",
+   "id": "120131",
+   "prompt": "¡Nuestro amigo de aquí es muy cuidadoso! Siempre se asegura de detenerse y {{BLANK}}."
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "FRIENDS",
+   "id": "120132",
+   "prompt": "Nuestro amigo cree que la mejor cosa natural en la Tierra es {{BLANK}}."
+  },
+  {
+   "category": "SOLO-MEGAPAL",
+   "familiarity": "FRIENDS",
+   "id": "120133",
+   "prompt": "Aviéntale a nuestro amigo su bebida de emergencia, una {{BLANK}} bien fría."
+  },
+  {
+   "category": "SOLO",
+   "familiarity": "STRANGERS",
+   "id": "120187",
+   "prompt": "El traje de Halloween de nuestro colega se basa en el personaje más relevante del año: {{BLANK}}"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120340",
+   "prompt": "¿Cuáles son algunas fuentes que harían que los corazones de nuestros amigos canten?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120341",
+   "prompt": "¿Qué juguetito podríamos conseguir para nuestros amigos del cajón de regalos del dentista?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120342",
+   "prompt": "¿Qué es algo de los años 90 qué nuestros amigos de aquí adooooooran?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120343",
+   "prompt": "La alianza de estos dos ha sido una historia épica, ¡tal como la épica película {{BLANK}}!"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120345",
+   "prompt": "Nuestros amigos INSISTIERON que visitemos Times Square. ¿Qué están desesperados que veamos?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120346",
+   "prompt": "¿Cuáles son otros materiales que no son tan fuertes como esta amistad?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120347",
+   "prompt": "Estos dos se verían de fábula en su nueva vestimenta basada en dénim: {{BLANK}}."
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120348",
+   "prompt": "Estos dos amigos a la moda no paran de decir la palabra “{{BLANK}}”."
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "120349",
+   "prompt": "Extrañaremos a nuestros amigos, ¡así que nos aseguramos de {{BLANK}} antes de que vayan a trabajar!"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "FRIENDS",
+   "id": "120350",
+   "prompt": "Pongan a nuestros amigos en la sala de GOATs, junto a personas como {{BLANK}}."
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120351",
+   "prompt": "¡Nuestros colegas están organizando una cena! Debemos asegurarnos de llevar {{BLANK}}."
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120353",
+   "prompt": "¿Sabían que nuestros dos amigos de aquí tienen licencias certificadas de {{BLANK}}?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120354",
+   "prompt": "Ya no nos importan las coincidencias de estos dos. ¡¡Nombremos nuestros puentes preferidos!!"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120355",
+   "prompt": "Nuestros amigos recibieron un ascenso en el trabajo. ¡Ahora son Jefes Oficiales de {{BLANK}}!"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120356",
+   "prompt": "¿Cómo responderían nuestros amigos a lo siguiente? “Mantén la calma y {{BLANK}}”"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120357",
+   "prompt": "¿Qué palabras del lenguaje local deberían aprender nuestros amigos antes de viajar?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120358",
+   "prompt": "¡Nuestros colegas son un duo de lucha libra! ¿Qué equipamiento tienen SIEMPRE en el ring?"
+  },
+  {
+   "category": "MEGAPALS",
+   "familiarity": "STRANGERS",
+   "id": "120359",
+   "prompt": "¡Nuestros amigos están atrapados en el espacio! ¡Digamos un montón de palabras del espacio!"
+  }
+ ]
+}

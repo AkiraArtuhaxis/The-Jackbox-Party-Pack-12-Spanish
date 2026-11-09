@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Nuestros colegas han conformado un duo de lucha libre! ¿Qué equipamiento esencial necesitan tener SIEMPRE en el ring?"
+  }
+ ]
+}

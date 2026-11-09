@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasResponseAudio"
+  },
+  {
+   "t": "A",
+   "v": "response",
+   "n": "ResponseAudio",
+   "s": "No vuelvas a decir NUNCA esa palabra en este palacio. \"Soltero\", ¿¿CÓMO TE ATREVES??"
+  }
+ ]
+}

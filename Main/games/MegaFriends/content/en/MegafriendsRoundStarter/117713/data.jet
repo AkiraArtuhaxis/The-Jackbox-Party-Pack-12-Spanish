@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasStarterAudio"
+  },
+  {
+   "t": "A",
+   "v": "starter",
+   "n": "StarterAudio",
+   "s": "Esa cosa a la que podrías ganarle fácilmente en una pelea, pero con la que NUNCA pelearías."
+  }
+ ]
+}

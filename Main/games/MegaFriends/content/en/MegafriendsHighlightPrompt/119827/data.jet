@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Nuestros colegas se merecen trabajar con marcas! Esta amistad ahora está orgullosamente auspiciada por: ESTO. Menos mi 20%, claro."
+  }
+ ]
+}

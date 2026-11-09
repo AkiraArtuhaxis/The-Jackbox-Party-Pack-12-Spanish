@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Vengan, todos, hagamos una estatua en honor a estos dos amigos. Por supuesto, está hecha íntegramente de ESTO."
+  }
+ ]
+}

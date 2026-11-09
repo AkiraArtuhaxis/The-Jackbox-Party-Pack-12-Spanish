@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Hacia el podio! ¡Estos amigos son compañeros de campaña! Su primera promesa de campaña: ¡todos consiguen uno de ESTOS!"
+  }
+ ]
+}

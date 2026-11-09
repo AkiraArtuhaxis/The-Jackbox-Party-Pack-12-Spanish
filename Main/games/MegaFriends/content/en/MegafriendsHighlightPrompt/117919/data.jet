@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Vamos a llevar a nuestro amigo en un viaje! Toma un vuelo de una hora, clase economía para AQUÍ. ¡Disfruta sentado al lado del baño!"
+  }
+ ]
+}

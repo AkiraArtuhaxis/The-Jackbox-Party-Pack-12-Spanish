@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Es difícil lucirse como un espectro en estos días. Si este colega fuera un fantasma, ¿cuál sería un lugar interesante para que embruje?"
+  }
+ ]
+}

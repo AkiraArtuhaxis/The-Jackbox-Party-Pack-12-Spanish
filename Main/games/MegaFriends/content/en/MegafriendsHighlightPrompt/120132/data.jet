@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestro amigo piensa mucho en el medio ambiente. Creen que la cosa natural más grande en la Tierra es ESTA."
+  }
+ ]
+}

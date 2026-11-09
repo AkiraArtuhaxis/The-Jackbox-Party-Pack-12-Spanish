@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Ya me harté de esos dos. Llevémoslos a la feria medieval, vistámoslos como ESTO, ¡y dejémoslos ahí!"
+  }
+ ]
+}

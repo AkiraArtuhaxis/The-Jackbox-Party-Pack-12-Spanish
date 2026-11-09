@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestro amigo de aquí está haciendo un disfraz de Halloween basado en el mayor personaje de este año. Eso implica que va a ir vestido de ESTO."
+  }
+ ]
+}

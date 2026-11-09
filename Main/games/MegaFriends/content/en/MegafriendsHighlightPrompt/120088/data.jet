@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡¿Otra vez sobras?! ¿Qué estamos recalentando de la cena de ayer para nuestro amigo aquí? ¡Ponganmelo cerca! ¡Transmito un MONTÓN de microondas!"
+  }
+ ]
+}

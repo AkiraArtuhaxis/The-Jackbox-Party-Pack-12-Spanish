@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Estos dos amigos a la moda son los próximos top models de la nación! Lo sabemos porque no paran de decir la palabra “ESTA”."
+  }
+ ]
+}

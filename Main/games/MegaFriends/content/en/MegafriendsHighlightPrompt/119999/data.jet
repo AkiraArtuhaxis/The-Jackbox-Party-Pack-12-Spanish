@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Con sus ganancias, este colega de aquí va a causar ESTRAGOS en la tienda de la carretera. ¿Qué se va a comprar?"
+  }
+ ]
+}

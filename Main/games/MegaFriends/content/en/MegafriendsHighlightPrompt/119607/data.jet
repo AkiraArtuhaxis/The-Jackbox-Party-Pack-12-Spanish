@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Nuestros colegas de aquí llegaron a Hollywood! ¿Qué tipo de película deberían hacer? Yyyy, ¡ACCIÓN!"
+  }
+ ]
+}

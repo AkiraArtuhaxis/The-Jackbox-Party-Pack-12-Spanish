@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestro amigo no es un conspiranoico, pero estamos seguros de que podría convencernos de que ESTO es real. Pero siendo justos, soy muy crédulo. ¡Y cremoso!"
+  }
+ ]
+}

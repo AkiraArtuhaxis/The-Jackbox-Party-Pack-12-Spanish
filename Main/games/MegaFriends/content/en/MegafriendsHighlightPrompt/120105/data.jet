@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Los amigos SIEMPRE dejan que sus amigos tomen prestada su máquina del tiempo. ¿A dónde quiera viajar nuestro amigo esta vez?"
+  }
+ ]
+}

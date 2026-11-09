@@ -1,0 +1,274 @@
+{
+ "content": [
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117163",
+   "text": "Monte {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117167",
+   "text": "¡Feliz día de {{BLANK}}!"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117169",
+   "text": "¡Es una fiesta de {{BLANK}}!"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117170",
+   "text": "{{BLANK}} Landia"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117203",
+   "text": "El señor de {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117232",
+   "text": "Escuela {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117234",
+   "text": "{{BLANK}} del año"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117241",
+   "text": "Auto-{{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117244",
+   "text": "El museo de {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117828",
+   "text": "Doctor {{BLANK}}"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "117829",
+   "text": "¿Qué es esa cosa en tu billetera?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "117830",
+   "text": "¿Qué es esa cosa de la máquina expendedora?"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117832",
+   "text": "Capitán {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118148",
+   "text": "Salsa {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118156",
+   "text": "Un trabajo {{BLANK}}"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118166",
+   "text": "¿Qué es esa cosa en tu baño?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118167",
+   "text": "¿Qué es esa cosa pegajosa?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118168",
+   "text": "¿Qué es es esa cosa que es MUY grande?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118170",
+   "text": "¿Qué es esa cosa que anda suelta por la noche?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118172",
+   "text": "¿Cuál es ese evento al que toda esa gente asiste?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118174",
+   "text": "¿Cuál es esa cosa que usa baterías?"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118297",
+   "text": "{{BLANK}} #1 del mundo"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118301",
+   "text": "Una enorme colección de {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118303",
+   "text": "Una máquina de {{BLANK}}"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118304",
+   "text": "Guau, ¿qué es esa cosa que veo ahí bien alto?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118306",
+   "text": "¿Qué es esa cosa en tu computadora?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118308",
+   "text": "¿Qué es esa cosa que va en un tazón?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118310",
+   "text": "Entonces, ¿QUÉ te llevaste a la universidad?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118313",
+   "text": "¿Qué es esa cosa en el maletero de tu auto?"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118331",
+   "text": "Noche {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118333",
+   "text": "Un cartel de {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118335",
+   "text": "Ciudad {{BLANK}}"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118337",
+   "text": "¿Qué es esa cosa que tienes que conectar para utilizar?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118357",
+   "text": "¿Qué es esa cosa en tu camiseta?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118360",
+   "text": "¿Qué hay en ese vaso?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118619",
+   "text": "¿Qué es esa cosa que alquilas?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118624",
+   "text": "¿Qué es algo que siempre postergas?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118631",
+   "text": "¿Qué es esa cosa que siempre pierdes?"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118649",
+   "text": "Club {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118653",
+   "text": "www.{{BLANK}}.com"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118654",
+   "text": "El show de {{BLANK}}"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118682",
+   "text": "¿Qué es esa cosa que requiere de un calzado particular?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118683",
+   "text": "¿Qué es esa cosa que suele caerse debajo del asiento del auto?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118689",
+   "text": "¿Qué es esa cosa para la que tienes que contratar a alguien para arreglar?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118697",
+   "text": "¿Qué es esa cosa que se mantiene en una vitrina?"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118709",
+   "text": "Libre de {{BLANK}}"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118762",
+   "text": "¿Qué es esa cosa que una persona hace sobre el escenario?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118772",
+   "text": "¿Qué es esa cosa que le daría a alguien que amas?"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118773",
+   "text": "Rey {{BLANK}}"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118831",
+   "text": "¿Qué es esa cosa comestible que huele muy bien?"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118850",
+   "text": "{{BLANK}} de invierno"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118853",
+   "text": "{{BLANK}} bebé"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118854",
+   "text": "{{BLANK}} de bolsillo"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118865",
+   "text": "¿Qué es eso para lo cual las personas hacen fila?"
+  }
+ ]
+}

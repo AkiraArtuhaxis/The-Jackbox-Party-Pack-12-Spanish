@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Estación Educación! Esta dupla ha decidido tomar una clase extracurricular juntos. ¿De qué trata?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡¡¡A pistear!! ¿Cuál es una cosa no automovilística que nuestros colegas se verían MUY COOL conduciendo?"
+  }
+ ]
+}

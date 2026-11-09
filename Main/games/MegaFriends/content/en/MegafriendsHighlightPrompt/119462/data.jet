@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡¿Sabían que me puedo transformar en un caballo de miniatura?! Si nuestro amigo de aquí pudiera convertirse en un animal, ¿cuál querrías que sea?"
+  }
+ ]
+}

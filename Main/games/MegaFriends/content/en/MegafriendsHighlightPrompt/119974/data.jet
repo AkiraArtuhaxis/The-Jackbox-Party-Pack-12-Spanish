@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestros colegas extrañan los viejos tiempos. ¿Cuáles son tecnologías antiguas que creen que nuestros amigos extrañarían? Uf. Extraño que me envíen faxes."
+  }
+ ]
+}

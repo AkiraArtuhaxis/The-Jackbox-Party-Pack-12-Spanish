@@ -1,0 +1,400 @@
+{
+ "content": [
+  {
+   "id": "116811",
+   "starter": "Ese lugar al que vas si tienes que terminar toda tu tarea."
+  },
+  {
+   "id": "116812",
+   "starter": "Ese lugar al que TÚ no le tienes miedo, pero otras personas sí."
+  },
+  {
+   "id": "116814",
+   "starter": "Esa cosa que los padres adoras y los niños ODIAN ODIAN ODIAN."
+  },
+  {
+   "id": "116818",
+   "starter": "¡Esa cosa que es divertida! Pero deja un enchastre."
+  },
+  {
+   "id": "116819",
+   "starter": "Esa cosa enorme que la mayoría de las personas no ven en la vida real."
+  },
+  {
+   "id": "116824",
+   "starter": "Esa cosa que es LARGA Y ABURRIIIIDAAA."
+  },
+  {
+   "id": "116825",
+   "starter": "Esa cosa vieja que ya nadie utiliza más."
+  },
+  {
+   "id": "116896",
+   "starter": "Esa cosa que solías ver seguido, pero ya no ves más."
+  },
+  {
+   "id": "116904",
+   "starter": "Ese lugar que queda lejos, ¡pero que vale el viaje!"
+  },
+  {
+   "id": "116907",
+   "starter": "Esa cosa amarilla que es amarilla y blandita."
+  },
+  {
+   "id": "116908",
+   "starter": "Esa cosa que es dolorosa, pero importante."
+  },
+  {
+   "id": "117150",
+   "starter": "Esa cosa muy, muy vieja en los museos."
+  },
+  {
+   "id": "117151",
+   "starter": "Esa cosa en un restaurante que puedes succionar."
+  },
+  {
+   "id": "117152",
+   "starter": "Esa cosa comestible que es MUY enchastrosa."
+  },
+  {
+   "id": "117154",
+   "starter": "Esa cosa complicada que, desafortunadamente, tienes que aprender."
+  },
+  {
+   "id": "117207",
+   "starter": "¡Esa cosa que es pegajosa y delicioooosa!"
+  },
+  {
+   "id": "117209",
+   "starter": "Esa cosa que haces seguido en tus 20 pero NO en tus 40.",
+   "x": true
+  },
+  {
+   "id": "117210",
+   "starter": "Esa cosa que es brillante y llena de riqueza."
+  },
+  {
+   "id": "117213",
+   "starter": "Ese lugar donde sientes que puedes ser tú mismo."
+  },
+  {
+   "id": "117245",
+   "starter": "Esa cosa que tiene metal que no puede faltar en tu vida."
+  },
+  {
+   "id": "117248",
+   "starter": "Esa cosa que PODRÍAS hacer, pero es mejor cuando otro la hace."
+  },
+  {
+   "id": "117249",
+   "starter": "Esa persona o personaje amigable que A TI te parece molesta."
+  },
+  {
+   "id": "117258",
+   "starter": "Esa cosa elegante que te pones para una noche importante."
+  },
+  {
+   "id": "117261",
+   "starter": "Esa cosa asquerosa en la casa de tus abuelos."
+  },
+  {
+   "id": "117262",
+   "starter": "Esa cosa que es fácil, pero nadie quiere hacer."
+  },
+  {
+   "id": "117538",
+   "starter": "Ese lugar que tienes que visitar todos los años y no te agrada."
+  },
+  {
+   "id": "117539",
+   "starter": "Esa actividad que es silenciosa y un poco difícil."
+  },
+  {
+   "id": "117540",
+   "starter": "Esa cosa que es emocionante, pero que tiene muchas reglas."
+  },
+  {
+   "id": "117545",
+   "starter": "Esa cosa que las personas se suelen dar entre sí antes de despedirse."
+  },
+  {
+   "id": "117548",
+   "starter": "Esa cosa que recibes que demuestra que eres adulto."
+  },
+  {
+   "id": "117549",
+   "starter": "Ese lugar que es aburido... ¡pero que todos tienen que visitar!"
+  },
+  {
+   "id": "117551",
+   "starter": "Ese trabajo o persona que todos miran y piensan, “¡Impresionante!”"
+  },
+  {
+   "id": "117552",
+   "starter": "Esa persona que tiene buenas opiniones y habla con calma."
+  },
+  {
+   "id": "117556",
+   "starter": "Esa cosa que es RUIDOSA e involucra muchísimas personas."
+  },
+  {
+   "id": "117557",
+   "starter": "Ese lugar con todas las prendas y NINGUNA asistencia."
+  },
+  {
+   "id": "117563",
+   "starter": "Esa cosa emocionante que TIENES que detenerte a observar."
+  },
+  {
+   "id": "117569",
+   "starter": "Esa cosa que es fría, y es muy divertida."
+  },
+  {
+   "id": "117683",
+   "starter": "Esa cosa rápida que no tiene ruedas."
+  },
+  {
+   "id": "117690",
+   "starter": "Esa cosa comestible que viene en distintos colores."
+  },
+  {
+   "id": "117695",
+   "starter": "¡Esa cosa que amerita una celebración!"
+  },
+  {
+   "id": "117704",
+   "starter": "Esa cosa que es MUY divertida, y perfectamente aceptable hacer todos los días."
+  },
+  {
+   "id": "117707",
+   "starter": "Esa cosa que suele ser arriesgada, ¡pero quizá valga la pena!"
+  },
+  {
+   "countrySpecific": false,
+   "id": "117708",
+   "starter": "Esa cosa que es genial, pero requiere esperar por mucho tiempo."
+  },
+  {
+   "id": "117712",
+   "starter": "Esa cosa que es divertida, pero tienes que dejar la casa para hacerla."
+  },
+  {
+   "id": "117713",
+   "starter": "Esa cosa a la que podrías ganarle fácilmente en una pelea, pero con la que NUNCA pelearías."
+  },
+  {
+   "id": "117715",
+   "starter": "Esa cosa que te gusta a ti Y a tu madre."
+  },
+  {
+   "id": "117732",
+   "starter": "Esa cosa que no es un ser vivo, PERO SÍ maneja tu vida."
+  },
+  {
+   "id": "117736",
+   "starter": "Esa cosa que mejoró con los años, pero sigue siendo un bodrio.",
+   "x": true
+  },
+  {
+   "id": "117743",
+   "starter": "Esa cosa a la que le metes cosas, pero que no sueles SACARLE cosas."
+  },
+  {
+   "id": "117745",
+   "starter": "Esa cosa que compras, pero te aseguras de ocultar que lo hiciste."
+  },
+  {
+   "id": "117761",
+   "starter": "Esa cosa que sostienes en tu mano que viene de a pares."
+  },
+  {
+   "id": "117763",
+   "starter": "Esa cosa que usas para tocar otras cosas."
+  },
+  {
+   "id": "117765",
+   "starter": "Esa cosa que TÚ compras, pero se espera que compartas."
+  },
+  {
+   "id": "117769",
+   "starter": "Esa cosa importante para la que tienes que completar papeleo."
+  },
+  {
+   "id": "117771",
+   "starter": "Esa cosa que mantiene juntas a otras cosas."
+  },
+  {
+   "id": "117835",
+   "starter": "Esa cosa verde con olor."
+  },
+  {
+   "id": "117838",
+   "starter": "Esa cosa que se mete dentro de tu cuerpo.",
+   "x": true
+  },
+  {
+   "id": "117839",
+   "starter": "Ese lugar en el que gastas dinero de más, ¡pero está bien!"
+  },
+  {
+   "id": "117841",
+   "starter": "Ese lugar que es un algo aterrador, ¿pero también algo genial?"
+  },
+  {
+   "id": "117936",
+   "starter": "Esa cosa que usas todos los días, pero LA VERDAD no sabes cómo funciona."
+  },
+  {
+   "id": "117939",
+   "starter": "Esa cosa que probablemente podrías ver en la tele ahora mismo."
+  },
+  {
+   "id": "117944",
+   "starter": "Esa cosa que el mal tiempo puede arruinar."
+  },
+  {
+   "id": "117956",
+   "starter": "Esa cosa con la que no quieres que te descubran."
+  },
+  {
+   "id": "117961",
+   "starter": "Esa cosa en la que no quieres quedarte accidentalmente atrapado."
+  },
+  {
+   "id": "117967",
+   "starter": "Esa cosa que ahora es importante pero no existía hace 25 años."
+  },
+  {
+   "id": "117978",
+   "starter": "¡Esa persona que hace que tus sueños se cumplan!"
+  },
+  {
+   "countrySpecific": true,
+   "id": "117987",
+   "starter": "Esa cosa que suele usarse como disfraz de Halloween para bebés."
+  },
+  {
+   "id": "117988",
+   "starter": "Eso que tienes que agarrar cuando cometes errores."
+  },
+  {
+   "id": "117990",
+   "starter": "¡Esa cosa que es colorida y hace sonreír a la gente!"
+  },
+  {
+   "id": "117993",
+   "starter": "Esa cosa que a veces dan de regalo cuando compras algo."
+  },
+  {
+   "id": "117997",
+   "starter": "Esa cosa que es GENIAL y DIVERTIDA y que si la comes TE MUERES.",
+   "x": true
+  },
+  {
+   "id": "118000",
+   "starter": "Esa cosa que es verde, pero no necesariamente de la naturaleza."
+  },
+  {
+   "id": "118002",
+   "starter": "Esa cosa que no requiere ninguna habilidad para utilizar."
+  },
+  {
+   "id": "118003",
+   "starter": "Esa persona que tenía mucho poder hace muuuuuuuuucho tiempo."
+  },
+  {
+   "id": "118007",
+   "starter": "¡Esa máquina que no a cualquiera se le permite operar!"
+  },
+  {
+   "id": "118008",
+   "starter": "Esa cosa que PUEDE lastimarte, pero nadie le teme."
+  },
+  {
+   "id": "118009",
+   "starter": "Esa cosa práctica que aprendiste en internet."
+  },
+  {
+   "id": "118012",
+   "starter": "Esa cosa que pisas, a propósito."
+  },
+  {
+   "id": "118018",
+   "starter": "Esa cosa que suele caerse, y está bien que lo haga."
+  },
+  {
+   "id": "118021",
+   "starter": "Esa cosa con la que tienes que lidiar con muuucho cuidado."
+  },
+  {
+   "id": "118022",
+   "starter": "Esa cosa que das por hecho, pero DEFINITIVAMENTE notarías si faltara."
+  },
+  {
+   "id": "118024",
+   "starter": "Esa cosa que cuelga de esa otra cosa."
+  },
+  {
+   "id": "118027",
+   "starter": "Esa cosa tuya que te incomodaría prestarle a alguien más."
+  },
+  {
+   "id": "118029",
+   "starter": "Esa cosa sobre la que siempre lees reseñas primero."
+  },
+  {
+   "countrySpecific": false,
+   "id": "118051",
+   "starter": "Esa cosa grande que puedes ver desde muy lejos."
+  },
+  {
+   "id": "118052",
+   "starter": "Esa cosa a la que de verdaaaad no quieres tener muy cerca."
+  },
+  {
+   "id": "118648",
+   "starter": "Esa cosa que a veces tienes que agitar un poco."
+  },
+  {
+   "id": "118716",
+   "starter": "Esa cosa que golpeas, ¡porque se supone que lo hagas!"
+  },
+  {
+   "id": "118717",
+   "starter": "Esa cosa de la que te tratas de librar pero siempre regresa."
+  },
+  {
+   "id": "118718",
+   "starter": "Esa cosa por la que se mueven OTRAS cosas.",
+   "starterContent": false
+  },
+  {
+   "id": "118719",
+   "starter": "Esa cosa que comienza una persona y luego el resto se une."
+  },
+  {
+   "id": "118763",
+   "starter": "Ese lugar al que nunca has ido, y probablemente nunca vayas."
+  },
+  {
+   "id": "118768",
+   "starter": "Esa cosa que toma un montóóóón de tiempo planificar."
+  },
+  {
+   "id": "118771",
+   "starter": "Esa cosa para la que tienes que llevar un atuendo especial."
+  },
+  {
+   "id": "118860",
+   "starter": "Ese lugar con los ancianos simpáticos."
+  },
+  {
+   "id": "118866",
+   "starter": "Ese lugar al que vas cuando te quedas sin alternativas."
+  },
+  {
+   "id": "118867",
+   "starter": "Esa persona que recibe el agradecimiento en el discurso importante."
+  }
+ ]
+}

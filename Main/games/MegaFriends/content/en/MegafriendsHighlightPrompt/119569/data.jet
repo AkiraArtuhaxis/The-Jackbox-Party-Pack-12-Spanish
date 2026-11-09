@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Estos dos amigos coinciden como si fuera su trabajo! ¿Qué trabajo creen que estos dos soñaban tener cuando eran pequeños?"
+  }
+ ]
+}

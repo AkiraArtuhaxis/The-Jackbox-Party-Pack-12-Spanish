@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "De acuerdo. Vamos a juntar los dos nombres de estos amigos. Su nuevo nombre de AMISTAD es: ¡ESTE!"
+  }
+ ]
+}

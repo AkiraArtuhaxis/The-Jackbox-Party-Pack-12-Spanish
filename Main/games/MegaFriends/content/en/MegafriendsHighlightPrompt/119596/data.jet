@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¿Saben lo que hacen los buenos amigos? ¡Regalar a otras personas mascotas que nunca pidieron! ¿De qué animal nuestro amigo de aquí ahora es responsable?"
+  }
+ ]
+}

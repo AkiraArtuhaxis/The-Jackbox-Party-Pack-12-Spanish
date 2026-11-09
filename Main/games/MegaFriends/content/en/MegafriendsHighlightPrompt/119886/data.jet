@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Todos, shh! Nuestro amigo quiere que todos veamos este video “increíble” que vio en línea. ¿De qué es el video?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Nuestro amigo de aquí adora el cine! ¿Cuáles son algunos términos finos de cinéfilos que podemos decir para impresionarlo?"
+  }
+ ]
+}

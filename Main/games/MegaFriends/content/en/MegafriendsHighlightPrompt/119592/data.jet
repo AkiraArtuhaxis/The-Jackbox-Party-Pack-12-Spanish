@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestro amigo necesita un momento de silencio en un lugar feliz. ¡Por eso es que lo mandamos AQUÍ! ¡¡¡Hasta nunca, amiguis!!!"
+  }
+ ]
+}

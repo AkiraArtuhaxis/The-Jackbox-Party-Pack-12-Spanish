@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Hagámosle a nuestro amigo de aquí su propio perfume personalizado. Tiene fuertes notas de ESTO."
+  }
+ ]
+}

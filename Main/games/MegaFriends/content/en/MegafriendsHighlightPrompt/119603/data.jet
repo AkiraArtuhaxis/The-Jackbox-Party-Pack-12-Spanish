@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Mamma mia! ¡Acaban de nombrar un sándwich en honor a nuestros amigos en la rotisería! ¿Cuál es el ingrediente principal?"
+  }
+ ]
+}

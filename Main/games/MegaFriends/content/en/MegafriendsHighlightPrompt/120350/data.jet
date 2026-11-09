@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Nuestros amigos de aquí son los mejores de todos los tiempos! Póngalos en sala de GOATs, junto a personas como ESTA."
+  }
+ ]
+}

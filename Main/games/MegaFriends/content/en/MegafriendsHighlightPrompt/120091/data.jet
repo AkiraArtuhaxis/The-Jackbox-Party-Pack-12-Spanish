@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Uuuuh, qué suave! Nuestro amigo acaba de conseguir un canje, y ahora solo hidrata su piel con ESTO."
+  }
+ ]
+}

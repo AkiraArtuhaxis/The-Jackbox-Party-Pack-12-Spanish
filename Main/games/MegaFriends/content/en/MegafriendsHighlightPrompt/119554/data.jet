@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Uuuh, divertido! Nuestro amigo aquí presente está organizando una fiesta temática de una película. ¿Cuál es el tema?"
+  }
+ ]
+}

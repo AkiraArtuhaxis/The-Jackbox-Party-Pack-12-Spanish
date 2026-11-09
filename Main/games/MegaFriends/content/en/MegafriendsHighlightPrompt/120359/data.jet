@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Nuestros amigos están atrapados en el espacio y necesitamos que vuelvan a casa! ¡Digan algunas palabras del espacio asi creen que sabemos lo que hacemos!"
+  }
+ ]
+}

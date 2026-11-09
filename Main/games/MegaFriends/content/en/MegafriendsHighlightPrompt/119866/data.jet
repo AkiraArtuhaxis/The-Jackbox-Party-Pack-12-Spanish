@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Supongamos que nuestros amigos son expertos en economía. ¿Cuáles son algunas palabras económicas que podríamos decir para impresionarlos?"
+  }
+ ]
+}

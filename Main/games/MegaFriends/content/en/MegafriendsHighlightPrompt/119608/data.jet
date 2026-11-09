@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Cuando nuestros colegas se juntan en el parque de la ciudad, ¿cuál es el primer lugar al que van?"
+  }
+ ]
+}

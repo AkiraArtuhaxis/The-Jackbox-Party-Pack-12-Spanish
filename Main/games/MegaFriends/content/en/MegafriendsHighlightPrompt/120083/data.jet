@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Nos quedamos toda la noche en un comedor de 24 horas! ¿Qué pide nuestro amigo en un horario inoportuno?"
+  }
+ ]
+}

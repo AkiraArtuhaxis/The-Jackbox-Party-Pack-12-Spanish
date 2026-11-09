@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestros colegas están en el negocio de la amistad. ¿Cuáles son algunas palabras impresionantes del negocio que creemos que les van a gustar?"
+  }
+ ]
+}

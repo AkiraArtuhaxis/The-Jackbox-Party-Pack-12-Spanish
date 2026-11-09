@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Comienza el montaje de entrenamiento! ¿Qué deporte buscan dominar estos dos atletas de élite?"
+  }
+ ]
+}

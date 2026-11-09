@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¿En qué delito menor creen que nuestros amigos serían MUY buenos? Por ejemplo, ¡yo tomo sol desnudo en las trampas de arena de los campos de golf!"
+  }
+ ]
+}

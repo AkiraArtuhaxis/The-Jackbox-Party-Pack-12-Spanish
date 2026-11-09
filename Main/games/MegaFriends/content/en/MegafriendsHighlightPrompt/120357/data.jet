@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Nuestros amigos son tan cercanos que viajan internacionalmente juntos! ¿Qué palabras NECESITAN aprender en el idioma local antes de partir?"
+  }
+ ]
+}

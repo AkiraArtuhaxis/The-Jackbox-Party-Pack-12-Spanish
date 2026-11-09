@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Uuuuuh, qué oficial! ¿Sabían que nuestros dos amigos de aquí tienen licencias certificadas de ESTO?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasResponseAudio"
+  },
+  {
+   "t": "A",
+   "v": "response",
+   "n": "ResponseAudio",
+   "s": "¡Mi nombre es Rey y digo hola! 6, 7, 8, 9, 10.... en un juego con todos mis amigos!"
+  }
+ ]
+}

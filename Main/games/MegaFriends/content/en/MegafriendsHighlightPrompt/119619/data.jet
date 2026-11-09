@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestros colegas se merecen lo mejor, ¡pero estamos en una tienda de regalos del aeropuerto! ¿Qué deberíamos darles?"
+  }
+ ]
+}

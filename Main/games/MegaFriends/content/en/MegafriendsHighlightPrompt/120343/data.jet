@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Huzzah y hurrah! ¡El camino hacia la alianza de estos dos ha sido un cuento épico, como la épica película ESTA!"
+  }
+ ]
+}

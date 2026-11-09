@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasResponseAudio"
+  },
+  {
+   "t": "A",
+   "v": "response",
+   "n": "ResponseAudio",
+   "s": "Ah, ¿quieres uno de esos? Em… qué tal arriba arriba, abajo abajo, acá es donde me hago encima. Izquierda, derecha, izquierda, derecha, ¡hoy no me hago en los pantalones! ¡Espero que haya valido la pena!"
+  }
+ ]
+}

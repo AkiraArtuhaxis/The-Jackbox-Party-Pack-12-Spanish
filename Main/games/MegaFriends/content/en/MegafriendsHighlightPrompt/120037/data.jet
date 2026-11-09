@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Brindis! Este amigo acaba de tener un cóctel nombrado en su honor... pero ¿qué es ese decorado?"
+  }
+ ]
+}

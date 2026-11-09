@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Admiremos el régimen diario de este amigo! ¿Qué es una cosa que hacen cada día? Por ejemplo, ¡cada día que consumo y vuelvo a consumirme! ¡Yum yum!"
+  }
+ ]
+}

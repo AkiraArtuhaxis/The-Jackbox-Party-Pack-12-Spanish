@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestro amigo de aquí está atorado en este juego con nosotros... ¡por ahora! ¿Qué es otra cosa en la que sería factible que se queden atorados?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Ups! Nuestros amigos no cerraron todas las pestañas de su navegador. ¿Qué sitios creen que probablemente tengan abiertos ahora mismo?"
+  }
+ ]
+}

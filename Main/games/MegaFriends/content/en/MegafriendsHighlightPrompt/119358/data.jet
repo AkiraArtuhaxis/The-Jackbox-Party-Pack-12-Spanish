@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Estos dos necesitan motivación para llegar a la meta! ¡Inspírenlos con frases de un discurso de ESTO!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestro colega de aquí tiene pensamientos ganadores, así que intentamos pensar como él. Cómo crees que terminaría la frase: “¡Cuidado! BLANK Circulando”"
+  }
+ ]
+}

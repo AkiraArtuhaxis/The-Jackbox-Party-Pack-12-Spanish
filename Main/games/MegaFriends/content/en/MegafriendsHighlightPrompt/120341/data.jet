@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestros amigos hicieron un gran trabajo en el dentista. ¿Qué juguetito podríamos conseguir para ellos del cesto de premios?"
+  }
+ ]
+}

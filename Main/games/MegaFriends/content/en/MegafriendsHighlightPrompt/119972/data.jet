@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Nuestros amigos están MUY locos ahora mismo. ¿Cuál es una buena actividad de interiores que podría calmarlos antes de la hora de la siesta?"
+  }
+ ]
+}

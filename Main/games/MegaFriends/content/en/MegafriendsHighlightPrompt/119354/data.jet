@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Miren estas ofertas! Nuestros colegas de aquí acaban de conseguir trabajo en el canal de compras para el hogar. ¿Qué venden?"
+  }
+ ]
+}

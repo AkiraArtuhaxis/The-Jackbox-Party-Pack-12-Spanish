@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Llevemos a nuestro amigo al casino! ¿Qué deberíamos hacer primero con él? ¡Canto el bacará!"
+  }
+ ]
+}

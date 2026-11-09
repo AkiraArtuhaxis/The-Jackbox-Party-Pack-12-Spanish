@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Ahh, la naturaleza! ¿Qué es algo sencillo del exterior que puede brindar una sonrisa a la cara de nuestros colegas?"
+  }
+ ]
+}

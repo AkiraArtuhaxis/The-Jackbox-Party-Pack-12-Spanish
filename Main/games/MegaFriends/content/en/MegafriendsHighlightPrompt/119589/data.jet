@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Le daremos a nuestro amigo de aquí una bolsa para que llene en la tienda de golosinas! ¿Qué colocará adentro?"
+  }
+ ]
+}

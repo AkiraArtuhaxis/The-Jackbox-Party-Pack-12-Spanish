@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Bienvenidos al campamento! Este colega llega primero a la ficha de inscripción de actividades. ¿A qué actividades de campamento se apunta?"
+  }
+ ]
+}

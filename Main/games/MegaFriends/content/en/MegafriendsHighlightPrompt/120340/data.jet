@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡El diseño gráfico es la pasión de estos amigos! ¿Cuáles son algunas fuentes que tocarían sus corazones?"
+  }
+ ]
+}

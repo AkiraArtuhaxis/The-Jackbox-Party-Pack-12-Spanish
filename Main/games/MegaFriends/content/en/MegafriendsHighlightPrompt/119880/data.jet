@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Estoy exhausto! Luego de la partida, voy a acurrucarme con mis amigos de aquí y veré ESTO por centésima vez."
+  }
+ ]
+}

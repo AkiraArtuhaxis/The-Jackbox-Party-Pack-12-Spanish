@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Nuestro amigo nos promete jugar un videojuego con nosotros cuando termine esto! No este juego. Un juego diferente, que no es este..... ¿¿¿Qué juego???"
+  }
+ ]
+}

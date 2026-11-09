@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Hagámosle un tatuaje a nuestro colega mientras duerme! ¿Qué le hacemos? Yo tengo una mariposa en mi... mmm. En ALGUNA parte."
+  }
+ ]
+}

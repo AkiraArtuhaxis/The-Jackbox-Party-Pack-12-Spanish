@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Firmemos el anuario de nuestro querido amigo. ¿Qué quieren decirle a nuestro graduado? Sniff - ¡se amigan tan rápido!"
+  }
+ ]
+}

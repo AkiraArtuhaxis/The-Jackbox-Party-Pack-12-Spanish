@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Comenzaré con un conejo, y luego nuestro amigo puede sacar OTRA cosa del sombrero. ¿Qué sigue?"
+  }
+ ]
+}

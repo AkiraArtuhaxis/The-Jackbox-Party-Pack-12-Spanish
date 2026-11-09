@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Estamos hartos de que estos dos consigan TANTAS coincidencias. ¡¡Consigamos las nuestras, nombrando nuestros puentes favoritos!!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¿Cómo creen que nuestros amigos de aquí responderían a lo siguiente? “Mantén la calma y ESTO”."
+  }
+ ]
+}

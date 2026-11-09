@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Rayos! Nuestro colega tiene un fuerte dolor de estómago por comer demasiado DE ESTO en la feria. No pasa nada, campeón, eructa todo."
+  }
+ ]
+}

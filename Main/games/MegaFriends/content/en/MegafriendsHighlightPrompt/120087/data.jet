@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡A bailar se ha dicho! La playlist de la boda está llena de temones; ¿a quién invita a bailar en la pista de baile nuestro amigo durante la recepción?"
+  }
+ ]
+}

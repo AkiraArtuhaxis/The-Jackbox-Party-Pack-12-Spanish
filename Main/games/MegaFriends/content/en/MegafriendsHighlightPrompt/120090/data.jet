@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Tras un largo día, ¡recompensemos a nuestro amigo con una actividad nocturna! ¿Qué pasatiempo tranquilo le gustaría?"
+  }
+ ]
+}

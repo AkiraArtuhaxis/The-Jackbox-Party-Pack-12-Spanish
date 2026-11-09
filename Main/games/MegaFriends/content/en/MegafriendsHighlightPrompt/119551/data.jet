@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Si todos colaboráramos para darle a nuestro amigo una tarjeta de comida de 300 dólares, ¿qué se compraría con eso? ¡Yo compraría una uva muy cara!"
+  }
+ ]
+}

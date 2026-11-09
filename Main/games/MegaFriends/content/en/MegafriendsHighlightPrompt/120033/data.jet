@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "¡Que ondee la bandera de su amistad! Vamos a diseñar una bandera personal para este colega. ¿Cuál es su color principal?"
+  }
+ ]
+}
