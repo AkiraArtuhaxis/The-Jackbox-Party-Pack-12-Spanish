@@ -1,0 +1,4008 @@
+{
+ "content": [
+  {
+   "category": "EMOTIVE",
+   "id": "115898",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu jefe te envía “llámame”"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115899",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando te sentaste en algo húmedo en el tren"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115904",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tienes un secreto exquisito... ¡pero nunca lo compartirás!"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115928",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando asistes al funeral de tu peor enemigo"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "115930",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando abres la arca perdida de la alianza"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "115964",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando estás en la playa luchando contra el huracán que se avecina"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115965",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando nadie te ha felicitado por tu Botox"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115970",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando te aferras a una piedra luego de que una tormenta derribó tu barco"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115971",
+   "position": "FIRST",
+   "prompts": [
+    "¡¡Tu cara cuando el cachorrito hace un bostezo bieeen graaande!!"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "115973",
+   "position": "THIRD",
+   "prompts": [
+    "Como la mascota de una bebida energética"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115976",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando por fin llegas a un oasis después de días en el desierto"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "115979",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando un enjambre de avispas quiere ser tu amigo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115980",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando encuentras la banana que dejaste en tu abrigo el invierno pasado"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115981",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando encuentras un oso en tu carpa al despertar"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115982",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el agua del bidet está a una temperatura extrema"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115984",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando la comida de tu pareja es muy mala pero quieres ser bueno"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115985",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu némesis te ofrece una copa de champán"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "115988",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando vuelves de unas vacaciones en un soleado Chernóbil"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "115992",
+   "position": "THIRD",
+   "prompts": [
+    "Como un encantador espía británico"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "115994",
+   "position": "THIRD",
+   "prompts": [
+    "Como un anfitrión de programa de juegos infantil"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "116005",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Bro! Los NFTs son el futuro!”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116018",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando la hora de las cosquillas se pasa de la raya"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116020",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando estás desnudo en una cancha de fútbol y se te abalanzan los de seguridad"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116056",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el enjuague bucal nivel industrial arde con ganas"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116057",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando alguien dice tu chiste, pero más fuerte, y todos se ríen"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116060",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el concurso de comer perritos calientes finalmente trae consecuencias"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116121",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu perro hace un chirlo número dos en el sofá"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116122",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando acabas de comer sushi de gasolinería"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116124",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando llegas al kilómetro 37 de una maratón para la cual no entrenaste"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116125",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el avión experimenta una turbulencia inesperada"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116126",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el cañón de camisetas está apuntando directo hacia ti"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116127",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando se te moja la manga mientras lavas los platos"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116129",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu papá estornuda en la parte silenciosa de una película de terror"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116131",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando arrancan con la construcción en tu calle a las 7 AM"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "countrySpecific": true,
+   "id": "116165",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el mesero trae la hamburguesa Paro Cardíaco de 7 kg que pediste"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116166",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando alguien abre su figura de Venom sellada"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116168",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando te golpeas tu maldita rodilla con la punta de la mesa"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116169",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el Oficial se lleva tu insignia y tu arma"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116173",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el profesor nerd la vuelca en el partido de básquetbol estudiantes contra profes"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116175",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando la cámara te capta en el medio de un estornudo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116178",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tienes un pelo atragantado en la garganta"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116180",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara tras hacer el “Challenge de hacer fondo con jugo de limón”"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116181",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el trabajo que estuviste escribiendo toda la noche no se guardó"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116258",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando mamá dice que no hay postre si no das dos mordiscos a tus coles de brusela"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116259",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el anfitrión del programa de juegos revela un auto 0 km"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116260",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el profesor de ciencias te asigna como pareja al niño que no hace nada"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116261",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando hay una escena sexy mientras miras una película con tus padres"
+   ],
+   "selfieDirection": "",
+   "starterContent": false,
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "116264",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando salvas el mundo con el poder de la canción"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116353",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu hijo dice que va a irse para casarse con alguien llamada Víbora"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116354",
+   "position": "FIRST",
+   "prompts": [
+    "¡Tu cara cuando ella propone matrimonio!"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116355",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el masajista va con todo a tus gluteos"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116357",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando no tiras el petardo a tiempo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116359",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tienes un año y mamá dice \"aquí viene el avioncito\""
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116360",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando la compañía celebra tus 40 años de servicio con una tarjeta de regalo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116362",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu pareja sugiere abrir la relación"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "countrySpecific": true,
+   "id": "116363",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando te llega la cuenta y ves que el restaurante cobra el agua"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116372",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando descubres que eres alérgico a los crustáceos en una cita a Langosta Roja"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "116377",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando sobrevives caer en una tina de ácido"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116378",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje en un remake de [i]El señor de los anillos[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116379",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje en una [i]Monsters, Inc.[/i] live-action"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116380",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje en [i]Vaselina 3[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116381",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje en un reboot de [i]Piratas del Caribe[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116383",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “Em, de hecho, hay una gran diferencia entre los protones y los fotones”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116482",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Mantengan la calma, por favor, el monstruo está bajo control!”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116486",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Cállense mocosos! ¡Estoy en el teléfono!”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116488",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “Así que, em, ¿te agradó? ¿O, em, te [i]agrado[/i]?”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116515",
+   "position": "THIRD",
+   "prompts": [
+    "Como un álien en la nueva serie de [i]Star Trek[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116516",
+   "position": "THIRD",
+   "prompts": [
+    "Como uno/a de los Muppets"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116517",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje en el musical de [i]Mi villano favorito[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116536",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “Oiga jovencita, ¿este tipo la está molestando?”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116537",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Asegúrate de darle su comida húmeda al Sr. Bigotes [i]en la boca[/i]!”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116543",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡¿A esto llamaz bernesa?! ¡Zalte de mi cocina!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "116544",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Diez segundos! ¡Estoy hackeando la unidad central!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "116548",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Tiren a esta sucia sabandija en el calabozo!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "116602",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Vamos Tigres, a morder! ¡Vamos Tigres, a pelear!”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116604",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “Gurg no querer Oog. Oog robar de Gurg piedra favorita.”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116605",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¿Acaso sabes quién es mi padre?”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116607",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Quiero hablar con tu supervisor!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "116672",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando tus huevos finalmente eclosionan pero no se parecen nada a ti"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116673",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando estás desfilando en la pasarela y escuchas una tremenda ruptura"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116686",
+   "position": "FIRST",
+   "prompts": [
+    "¡Tu cara cuando el mago tenía tu carta todo este tiempo!"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116687",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando estás en séptimo lugar en el concurso de belleza"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "116695",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando bajas en Marte y te sacas el casco para apreciar la vista"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "116727",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando envejeces 100 años de la noche a la mañana... ¡y es el día de la foto!"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "116732",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando te maldicen a empujar esta piedra hacia arriba de una colina por toda la eternidad"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116867",
+   "position": "THIRD",
+   "prompts": [
+    "Como un ángel que nos muestra el error de nuestros caminos"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116868",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje en un remake de Willy Wonka"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116869",
+   "position": "THIRD",
+   "prompts": [
+    "Como el adorable nuevo droide de una serie de [i]Star Wars[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "countrySpecific": true,
+   "id": "116870",
+   "position": "THIRD",
+   "prompts": [
+    "Como un coach de béisbol infantil liderando a su equipo alocado a la gloria"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116871",
+   "position": "THIRD",
+   "prompts": [
+    "Como un bully de secundaria en una película de los 80"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116873",
+   "position": "THIRD",
+   "prompts": [
+    "Como un nuevo monstruo en [i]Plaza Sésamo[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116874",
+   "position": "THIRD",
+   "prompts": [
+    "Como el fantasma gracioso en la nueva [i]Cazafantasmas[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116875",
+   "position": "THIRD",
+   "prompts": [
+    "Como uno de [i]Los Simpson[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116876",
+   "position": "THIRD",
+   "prompts": [
+    "Como el nuevo Guasón"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "countrySpecific": true,
+   "id": "116880",
+   "position": "THIRD",
+   "prompts": [
+    "Como un inquilino en una nueva temporada de [i]White Lotus[/i]"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116882",
+   "position": "THIRD",
+   "prompts": [
+    "Como un miembro de una orden internacional de asesinos"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116883",
+   "position": "THIRD",
+   "prompts": [
+    "Como uno de los amigos de Winnie Pooh"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116884",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje en [i]Bob Esponja[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116885",
+   "position": "THIRD",
+   "prompts": [
+    "Como un luchador profesional"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116887",
+   "position": "THIRD",
+   "prompts": [
+    "Como el monstruo viviendo debajo de la cama de un niño"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116953",
+   "position": "THIRD",
+   "prompts": [
+    "Como el miembro de una boy band de los 2000"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116956",
+   "position": "THIRD",
+   "prompts": [
+    "Como la chica mala popular de la secundaria"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116957",
+   "position": "THIRD",
+   "prompts": [
+    "Como un objeto hogareño maldito en [i]La bella y la bestia[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116958",
+   "position": "THIRD",
+   "prompts": [
+    "Como el “intermedio” de la rana convirtiéndose en el príncipe"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "117189",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando eres el amado cachorrito de un bulldog y una rana toro"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "117190",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡UH! ¡MAMÁ! ¡Te odio!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "117224",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Perritos calientes! ¡Consigan sus perritos calientes aquí!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "117225",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡SÍ! ¡Fiesteros! ¡Pongan las manos arriba!”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "117226",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Bebé quiere pañalito! ¡Buaaaa!”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117227",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu hermana te deja sus trillizos por una semana"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117228",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando los bros de la fraternidad de al lado organizan una fiesta loca el martes"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117229",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando te despiertas con el olor de alguien cocinando tocino"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117251",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando los niños a los que enseñas prenden fuego su tarea"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "117253",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Amiiigaaa, más vale que no estés tocando a mi hombre!”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "117254",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando contrataron a {{PLAYER}} como tu nuevo jefe/a"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "117255",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} paga por tu comida en la cena grupal, y SOLO LA TUYA"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "117256",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} lo da todo mientras te canta “Que los cumplas feliz”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "117257",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} quiere tocarte una canción en el trombón"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117278",
+   "position": "THIRD",
+   "prompts": [
+    "Como el pastor cascarrabias que odia el baile"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117302",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu cantante favorito/a lanza un nuevo temón de verano"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "117369",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Inclínense ante mí, humanos insignificantes!”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117406",
+   "position": "THIRD",
+   "prompts": [
+    "Como el mejor amigo/a sin pelos en la lengua de una romcom"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117413",
+   "position": "THIRD",
+   "prompts": [
+    "Como un huérfano enfermo de la era victoriana"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117414",
+   "position": "THIRD",
+   "prompts": [
+    "Como la tierna mascota de una marca de pañales"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "117415",
+   "position": "THIRD",
+   "prompts": [
+    "Como la niñita poseída por un demonio"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117417",
+   "position": "THIRD",
+   "prompts": [
+    "Como el adolescente pensativo que reconoce la basura de la sociedad"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117421",
+   "position": "THIRD",
+   "prompts": [
+    "Como un forzudo del circo de la vieja escuela"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117422",
+   "position": "THIRD",
+   "prompts": [
+    "Como una nueva princesa Disney"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "117423",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Rayuelas! ¡¿Quién tapó el toalet otra vez?!”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117433",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando estás ayudando al nacimiento de una vaca bebé"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117435",
+   "position": "THIRD",
+   "prompts": [
+    "Como el psíquico excéntrico que ayuda a la policía"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117441",
+   "position": "THIRD",
+   "prompts": [
+    "Como un yeti sensible"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117443",
+   "position": "THIRD",
+   "prompts": [
+    "Como un soldado cobarde en una película de guerra"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117512",
+   "position": "THIRD",
+   "prompts": [
+    "Como un hippie que está listo para compartir el amor"
+   ],
+   "selfieDirection": "",
+   "starterContent": false,
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117513",
+   "position": "THIRD",
+   "prompts": [
+    "Como el último soldado espartano vivo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117514",
+   "position": "THIRD",
+   "prompts": [
+    "Como la novia creída que no es la correcta para el principal masculino"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117519",
+   "position": "THIRD",
+   "prompts": [
+    "Como la mascota de una pizzería mediocre"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117525",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje de Dr. Seuss"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117526",
+   "position": "THIRD",
+   "prompts": [
+    "Como un YouTuber que hace tutoriales de maquillaje"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117527",
+   "position": "THIRD",
+   "prompts": [
+    "Como el monstruo de [i]Power Rangers[/i] de la semana"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117530",
+   "position": "THIRD",
+   "prompts": [
+    "Como uno de los elfos de Papá Noel"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117643",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando llevas bebiendo once tazas de café en el día a las 10 a.m."
+   ],
+   "selfieDirection": "",
+   "x": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117644",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando accidentalmente ves el historial de búsqueda de tu papá"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "117668",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} te deja un “regalo” secreto"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117749",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara durante el funeral de inodoro de tu pez mascota"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117750",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara al mirar un eclipse solar sin protección visual"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117757",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando no puedes recordar el nombre de la persona que te está abrazando en este momento"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117758",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu niño está gritando y te olvidaste la contraseña de Disney+"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117759",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando estás atrapado hablando de la economía con alguien en una fiesta"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117774",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando alguien te dice “Feliz cumple”, y respondes “tú también”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117775",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando un bocazas spoilea la película que estás viendo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117776",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando una poderosa águila aterriza justo afuera de la ventana de tu oficina"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117777",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando otro niñito tiene un globo mejor que el tuyo"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "countrySpecific": true,
+   "id": "117778",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando te tropezaste en hiedra venenosa"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117779",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el bully dice “En el patio, 3:00” y son las 2:59"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "countrySpecific": true,
+   "id": "117780",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando ves tu osito de peluche de la infancia en una venta de garaje"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117783",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando estás con resaca, pero trabajando el turno de hora pico"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117794",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando logras colarte en la fila de Starbucks y te sales con la tuya"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117796",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando solo tienes 4 segundos para cortar el cable correcto y desactivar la bomba"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117797",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando las chicas malas están susurrando y riendo mientras apuntan hacia ti"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117876",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando dos niñitos pequeños están a las piñas entre sí"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117877",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando nadie en el tráfico te deja meterte"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117879",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando encuentras ratones viviendo en tu almacén"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117881",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el policía te da [i]a ti[/i] una multa luego de que alguien choca tu auto"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "117882",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando llegas al Cielo y parece un centro comercial"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117883",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando atrapas el ramo en la boda"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117968",
+   "position": "THIRD",
+   "prompts": [
+    "Como el científico experto al que nadie escucha"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118030",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando estás en un viaje con {{PLAYER}} y tienen que compartir una habitación de hotel"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118113",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} te invita en unas vacaciones que planeó por su cuenta"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118116",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando ves veinte llamadas perdidas de {{PLAYER}}"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118118",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} pide que escuches su mixtape de hiphop"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118119",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} usa el mismo atuendo que tú"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118120",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} aparece en una camioneta y dice “súbete, compa”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118162",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando tu tiro estaba por errar y {{PLAYER}} lo empuja hacia adentro"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118163",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} se lanza enfrente de un taxi para salvar a tu perro suelto"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118177",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando el guardia de la cárcel dice “tienes visitas”, y es {{PLAYER}}"
+   ],
+   "selfieDirection": "",
+   "x": false
+  },
+  {
+   "category": "PLAYER",
+   "id": "118207",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} se para para dar un brindis improvisado en tu boda"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118209",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} pide si te puede mostrar cómo se para de manos"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118216",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} quiere contarte sobre un sueño que tuvo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "countrySpecific": true,
+   "id": "118217",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} te pide prestados mil dólares para mañana"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "118242",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando la primera palabra de tu bebé es \"citación\""
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118243",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando hay una abeja enorme en el ascensor"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118244",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando ves a tu jefe en la discoteca después de decir estar enfermo/a"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118245",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando encuentras un pelo pequeño en tu helado"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118246",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu peluquero juega demasiado con tu corte de pelo"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118247",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu crush se ríe y dice “¡eres un gran amigo!”"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "118248",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando una águila baja y se lleva a tu hijo"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118249",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu suegra se viste de blanco en el día de tu boda"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118251",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando te despiertas tarde tras quedarte dormido en una cama en IKEA"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118252",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando nadie más se disfrazó para la fiesta de Halloween"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118253",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el inodoro no corre en esta cena íntima"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "118254",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando estás cuidando a un niño que está claramente enfermo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118255",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu chofer de Uber se la pasa corriendo carreras con otros conductores"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118256",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando es el Día de la Madre y nadie le trajo un regalo a mamá"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118257",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando te encuentras con tu amigo actor en el lobby tras su horrible obra"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118259",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el mejor amigo/a de tu pareja se une a su luna de miel"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "118260",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando eres la atracción más popular en este zoológico interestelar alienígena"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118262",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu cita te invita a su casa por “café”"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118265",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu vecino practica la batería todas las noches a las 12 a.m."
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118266",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu dentista está masticando chicle justo en tu cara"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118267",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando la lista de compras de tu pareja incluye “prueba de embarazo”"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118268",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu médico observa tus análisis y dice “hmm”"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118341",
+   "position": "THIRD",
+   "prompts": [
+    "Como un mafioso en una película no lanzada de Scorsese"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118342",
+   "position": "THIRD",
+   "prompts": [
+    "Como la mascota de un equipo de béisbol malo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118343",
+   "position": "THIRD",
+   "prompts": [
+    "Como una nueva y mejorada mascota para una cadena de comida rápida"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118344",
+   "position": "THIRD",
+   "prompts": [
+    "Como un hombre de Monopoly modernizado y con onda"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118345",
+   "position": "THIRD",
+   "prompts": [
+    "Como la mascota de un parque de diversiones barato"
+   ],
+   "selfieDirection": "",
+   "x": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118346",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje referido como “el Señor Oscuro”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118359",
+   "position": "THIRD",
+   "prompts": [
+    "Como el muñeco espeluznante de una película de terror"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118397",
+   "position": "THIRD",
+   "prompts": [
+    "Como una “Ama de Casa Real”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118404",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando terminas tu rutina de ejercicio y la banana es justo lo que necesitabas"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118405",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando comes pizza por primera vez"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118408",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo \"¡Voy a vivir para siempre!\""
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "countrySpecific": true,
+   "id": "118410",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¿I-Irías al baile de graduación conmigo?”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118411",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “Este pueblo no es lo suficientemente grande para los dos.”"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "118412",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Voy a dar la vuelta si ustedes no dejan de pelear!”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118432",
+   "position": "THIRD",
+   "prompts": [
+    "Como el nuevo miembro de los X-Men"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118433",
+   "position": "THIRD",
+   "prompts": [
+    "Como la mascota de una marca de atún"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118434",
+   "position": "THIRD",
+   "prompts": [
+    "Como una mascota de un remedio para el resfriado"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118435",
+   "position": "THIRD",
+   "prompts": [
+    "Como la mascota para una pasta dental para niños"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118436",
+   "position": "THIRD",
+   "prompts": [
+    "Como la mascota para una marca de papitas picantes"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118437",
+   "position": "THIRD",
+   "prompts": [
+    "Como el juez duro de una competición de surf"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118438",
+   "position": "THIRD",
+   "prompts": [
+    "Como el tipo demasiado emocionado por los explosivos en un equipo de robo de bancos"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118439",
+   "position": "THIRD",
+   "prompts": [
+    "Como el alienígena gracioso en una película de ciencia ficción"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118440",
+   "position": "THIRD",
+   "prompts": [
+    "Como una criatura de la antigua mitología griega"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118441",
+   "position": "THIRD",
+   "prompts": [
+    "Como el mejor amigo de Súperman"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118442",
+   "position": "THIRD",
+   "prompts": [
+    "Como el villano OP de un anime"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118443",
+   "position": "THIRD",
+   "prompts": [
+    "Como tu mejor amigo/a que no sale del sillón"
+   ],
+   "selfieDirection": "",
+   "x": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118458",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el canto de las aves te despierta por la mañana"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118459",
+   "position": "THIRD",
+   "prompts": [
+    "Como un comerciante con productos exóticos de todo el mundo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118461",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el jurado te declara “No culpable”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118464",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu abuela te sorprende con un viaje al parque acuático"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "118465",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando abres una lata de atún y diez mil gatos aparecen en tu cocina"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118468",
+   "position": "THIRD",
+   "prompts": [
+    "Como el poco confiable vendedor de autos usados"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118471",
+   "position": "THIRD",
+   "prompts": [
+    "Como el cuarto fantasma que visita a Ebenezer Scrooge"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118474",
+   "position": "THIRD",
+   "prompts": [
+    "Como Charlie Brown live-action"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118483",
+   "position": "THIRD",
+   "prompts": [
+    "Como una criatura en [i]Alicia en el país de las maravillas[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118484",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} te prepara un sándwich sin que se lo pidas"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118494",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Este es el día más feliz de mi vida!”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118495",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de un motoquero de pandilla gritando: “¡A la carretera, hermanos!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": false,
+   "x": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "118497",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¿Es ese el pequeño Johnny? ¡Guau, cuánto has crecido!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "118498",
+   "position": "THIRD",
+   "prompts": [
+    "La cara de alguien diciendo “¡Ack! ¡Me envenenaron!”"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118499",
+   "position": "THIRD",
+   "prompts": [
+    "Como el nuevo primer ministro de una nación inventada"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118505",
+   "position": "THIRD",
+   "prompts": [
+    "Como el oficial biónico de la ley"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118509",
+   "position": "THIRD",
+   "prompts": [
+    "Como una gárgola viviente de una catedral antigua"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118512",
+   "position": "THIRD",
+   "prompts": [
+    "Como un standupero pibardo que “cuenta las cosas como son”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118513",
+   "position": "THIRD",
+   "prompts": [
+    "Como el bailarín de fondo en un video de hip-hop"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118514",
+   "position": "THIRD",
+   "prompts": [
+    "Como un boxeador profesional en la ronda 12"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118532",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando estás solo en tu casa por la noche y una puerta se abre leeeentamente"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118562",
+   "position": "THIRD",
+   "prompts": [
+    "Como la mascota tierna de una compañía petrolera"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118563",
+   "position": "THIRD",
+   "prompts": [
+    "Como un mimo/a francés"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "countrySpecific": true,
+   "id": "118564",
+   "position": "THIRD",
+   "prompts": [
+    "Como el/la presidente en una película de asteroides"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118565",
+   "position": "THIRD",
+   "prompts": [
+    "Como la rata que cuenta todo bajo presión"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118566",
+   "position": "THIRD",
+   "prompts": [
+    "Como el solitario nuevo personaje de Pixar"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118567",
+   "position": "THIRD",
+   "prompts": [
+    "Como la adolescente desarreglada que descubre que es una princesa"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118569",
+   "position": "THIRD",
+   "prompts": [
+    "Como la evolución final de un Pokémon"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118570",
+   "position": "THIRD",
+   "prompts": [
+    "Como el nuevo Indiana Jones"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118571",
+   "position": "THIRD",
+   "prompts": [
+    "Como una nueva criatura que lucha contra Godzilla"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118572",
+   "position": "THIRD",
+   "prompts": [
+    "Como el hombre salvaje que creció en la selva"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118574",
+   "position": "THIRD",
+   "prompts": [
+    "Como uno/a de los Trolls"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118576",
+   "position": "THIRD",
+   "prompts": [
+    "Como un Pedro Picapiedra moderno live-action que es convencionalmente atractivo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118578",
+   "position": "THIRD",
+   "prompts": [
+    "Como un compositor anticuado que está celoso de Mozart"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118579",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje de [i]Las brujas de Salem[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118580",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje en [i]Romeo y Julieta[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "PLAYER",
+   "id": "118585",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} se hace un tatuaje de tu cara en la parte inferior de su espalda"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118587",
+   "position": "THIRD",
+   "prompts": [
+    "Como el cantante principal de una banda punk"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118588",
+   "position": "THIRD",
+   "prompts": [
+    "Como un viejo capitán marinero con escorbuto"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118592",
+   "position": "THIRD",
+   "prompts": [
+    "Como alguien que acaba de tomar una valla eléctrica"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118594",
+   "position": "THIRD",
+   "prompts": [
+    "Como uno de los gatos en la película [i]Cats[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "PLAYER",
+   "id": "118596",
+   "position": "THIRD",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} te compra flores de la nada"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118597",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando piensas ganar este concurso de sostener miradas, sea como sea"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118598",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando intentas la “crianza gentil” pero tu niño tiene un cuchillo"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118599",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando la sopa que acabas de colocar en tu boca estaba hirviendo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118600",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando la profesora raspa sus uñas en la pizarra"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118602",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu mamá llama a tu papá “papi” enfrente tuyo"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118603",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando te enteras que tu crush podría ser tu primo/a"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "118604",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando la biblotecaria de 80 años te muestra su piercing de la lengua"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118605",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando logras sobrevivir una pelea con un canguro"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118606",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando no tienes nada más que hacer que descansar en una hamaca junto a un lago"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118607",
+   "position": "THIRD",
+   "prompts": [
+    "Como la mascota sexy para una marca de papel higiénico"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118608",
+   "position": "THIRD",
+   "prompts": [
+    "Como un petrolero ricachón de hace un siglo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118609",
+   "position": "THIRD",
+   "prompts": [
+    "Como el vecino alocado de una sitcom"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118610",
+   "position": "THIRD",
+   "prompts": [
+    "Como el hombre lobo que se odia a sí mismo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118611",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje de [i]El extraño mundo de Jack[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118612",
+   "position": "THIRD",
+   "prompts": [
+    "Como un vampiro raro estilo Nosferatu"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "118637",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo \"Has sido un niño malo, ¿cierto?\""
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "118639",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo \"Bienvenidos a mi mazmorra de puzles. ¿Jugamos un juego?\""
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118640",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo \"¡BAJEN Y DENME 30, INSECTOS!\""
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118698",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “Habla en mi oído bueno, muchachito.”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118699",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¿Tengo tu dinero del almuerzo? ¿Y [i]qué[/i] va'cer al respecto?”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118702",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Objeción, su señoría!”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118707",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “El radiador está roto, te va a costar un buen dineral.”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118708",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo \"Qué buen hogar que tienes aquí, sería una pena si le pasara algo.\""
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118725",
+   "position": "THIRD",
+   "prompts": [
+    "Como la Reina en una película de la Revolución Francesa"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "countrySpecific": true,
+   "id": "118726",
+   "position": "THIRD",
+   "prompts": [
+    "Como uno de los padres fundadores estadounidenses"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118727",
+   "position": "THIRD",
+   "prompts": [
+    "Como un gladiador romano de buen corazón"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118737",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo \"¡Holaaaa San Diego! ¡¿Están listos para ROCKEAR?!\""
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118740",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo \"Shh, hablemos más [i]tranqui[/i].\""
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118741",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Su travesía termina aquí! Nadie pasa sobre mí.”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118743",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Esa fue tremenda ola, bro!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118886",
+   "position": "THIRD",
+   "prompts": [
+    "Como un malo de la franquicia [i]Duna[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118925",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando ganas mucho dinero apostando a caballos"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118926",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando alguien te explica las reglas de un juego de cartas confuso"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118927",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el gimnasta olímpico se quiebra algo en vivo por televisión"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118928",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando al mesero se le cae un poco de sudor en tu comida"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118929",
+   "position": "THIRD",
+   "prompts": [
+    "Como un robot asesino aprendiendo a amar"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118930",
+   "position": "THIRD",
+   "prompts": [
+    "Como el detective rudo que ha visto todo"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118931",
+   "position": "THIRD",
+   "prompts": [
+    "Como la dama hermosa con un pasado oscuro"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118932",
+   "position": "THIRD",
+   "prompts": [
+    "Como el nuevo y más sexy Steve Urkel"
+   ],
+   "selfieDirection": "",
+   "starterContent": false,
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118933",
+   "position": "THIRD",
+   "prompts": [
+    "Como la esposa muerta en una foto que el héroe se la pasa mirando"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118934",
+   "position": "THIRD",
+   "prompts": [
+    "Como la estrella retirada del deporte que podría haber sido más"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118935",
+   "position": "THIRD",
+   "prompts": [
+    "Como el nuevo aterrado en una película de prisión"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118936",
+   "position": "THIRD",
+   "prompts": [
+    "Como el guardaespaldas aterrador del villano principal"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118937",
+   "position": "THIRD",
+   "prompts": [
+    "Como el tipo nerd con los artilugios de un agente secreto"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118938",
+   "position": "THIRD",
+   "prompts": [
+    "Como el sinvergüenza sin escrúpulos que traiciona al protagonista"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118939",
+   "position": "THIRD",
+   "prompts": [
+    "Como un místico/a en la cima de la montaña"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119017",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando das un mordisco a tu ensaladas y sientes que algo se mueve"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119025",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando alguien encuentra tu viejo blog de 2005"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119026",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando la ropa de iglesia es demasiado apretada y pica"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "countrySpecific": true,
+   "id": "119027",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando es Black Friday y entras en un estado de frenesí"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119064",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el novio accidentalmente dice el nombre de su ex en el altar"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "PLAYER",
+   "id": "119065",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando ves un posteo con demasiado información sobre la pareja de {{PLAYER}}"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119066",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu esposa y tu [i]novia[/i] te confrontan"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119067",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando accidentalmente tragas el escarbadientes que estabas masticando"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119069",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando se corta la transmisión justo cuando van a anunciar Mejor Película"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119070",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara que dice “Te lo dije”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119071",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando estás sentado en primera clase viendo como todos los demás pasan por al lado"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119072",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara luego de chocar muy fuertemente con una puerta corrediza transparente"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119073",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando pensaste que te habías metido en el auto de mamá, pero es un desconocido con el mismo auto"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119074",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando ayudas a que todas las tortugas bebés lleguen al mar"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119085",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando estás en la ducha y ves una sombra detrás de la cortina"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119086",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando un tornillo que parece importante se cae de la montaña rusa"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119087",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando accidentalmente cierras la puerta del auto en tu meñique"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119088",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando levantas un auto para salvar al gato perdido atrapado debajo"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119089",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara luego de que un piano de caricaturas te cae encima"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119091",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara al darte cuenta de que ese pimiento no era dulce, sino picantísimo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119093",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu verdadero amor y tú brincan por el césped"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119094",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara en tu 60ma flexión de brazos"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119096",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando la persona a tu lado en el vuelo está descalza"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119098",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando prendes la luz y salen diez millones de cucarachas"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119117",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando acabas de vomitar en tu boca pero no puedes ni escupir ni tragar"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119121",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando te descubren robando el almuerzo de alguien más"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119122",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando el referí no cobra una falta en el partido de tu hijo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "countrySpecific": true,
+   "id": "119123",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando te comes todo el wasabi por 20 dólares"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119126",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando te quedas dormido/a y tus niños te maquillan"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119129",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando caminas directamente en una telaraña"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119138",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando la antigua criatura sobrenatural que despertaste quiere mantenerte como mascota"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119139",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando eres la primera persona en la historia que es succionada por un agujero negro"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119140",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando eres torturado en el potro pero finalmente te suena la espalda"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119141",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando el amor de tu vida se convierte en un cáctus cuando le besas"
+   ],
+   "selfieDirection": "",
+   "starterContent": false,
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119143",
+   "position": "FIRST",
+   "prompts": [
+    "¡Tu cara cuando tus colegas te organizaron una fiesta sorpresa!"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119144",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando te reunes con tu amor perdido tras 20 años"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119146",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu mamá te hornea tu torta de cumpleaños favorita"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "countrySpecific": true,
+   "id": "119147",
+   "position": "FIRST",
+   "prompts": [
+    "¡Tu cara cuando te coronan reina del baile!"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119149",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando el genio concede tu deseo, pero con un giro extraño"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "119150",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} te pide ayuda con la mudanza"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "119151",
+   "position": "SECOND",
+   "prompts": [
+    "¡Tu cara cuando te enteras que {{PLAYER}} nombró a su primer(a) bebé en tu honor!"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119155",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando de repente a todo tu cuerpo le brotan papilas gustativas"
+   ],
+   "selfieDirection": "",
+   "starterContent": false,
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119159",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando accidentalmente arrollas un Minion"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119165",
+   "position": "THIRD",
+   "prompts": [
+    "Como la liebre que perdió con la tortuga"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119167",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje en la nueva película LEGO"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119168",
+   "position": "THIRD",
+   "prompts": [
+    "Como la nueva Bruja Mala del Oeste"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119169",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje en la nueva película de zombis"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119170",
+   "position": "THIRD",
+   "prompts": [
+    "Como un adolescente gótico que trabaja en el centro comercial"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119171",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje de [i]Thomas y sus amigos[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119172",
+   "position": "THIRD",
+   "prompts": [
+    "Como un Papá Noel de la actualidad"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119173",
+   "position": "THIRD",
+   "prompts": [
+    "Como el nuevo Grinch"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119174",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje de [i]Toy Story[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119175",
+   "position": "THIRD",
+   "prompts": [
+    "Como un sargento malo de una película de guerra"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119176",
+   "position": "THIRD",
+   "prompts": [
+    "Como el nuevo monstruo de Frankenstein"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119177",
+   "position": "THIRD",
+   "prompts": [
+    "Como el líder animal de una banda de animatrónicos"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119179",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje menor de [i]Game of Thrones[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119192",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando saboreas el delicioso sabor del chocolate artesanal"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119194",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando tu sándwich gime cada vez que lo tocas"
+   ],
+   "selfieDirection": "",
+   "starterContent": false,
+   "x": true
+  },
+  {
+   "category": "PLAYER",
+   "id": "119195",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando estás en una competencia de baile y {{PLAYER}} es tu pareja"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "119196",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuanto estás atrapado en un pozo con {{PLAYER}}"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119202",
+   "position": "THIRD",
+   "prompts": [
+    "Como un personaje de [i]Mad Max[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119203",
+   "position": "THIRD",
+   "prompts": [
+    "Como una joven ingenua que se mudó a Los Ángeles para ser una estrella"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119212",
+   "position": "THIRD",
+   "prompts": [
+    "Como un jugador de tenis que se enloquece en un partido de campeonato"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119215",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tu crush pone tu canción en la rocola"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119222",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando tu cita de Tinder es un catfish (literalmente el pez)"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119233",
+   "position": "THIRD",
+   "prompts": [
+    "Como el prisionero musculoso al que hasta los guardias temen"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119234",
+   "position": "THIRD",
+   "prompts": [
+    "Como el mujeriego billonario que siempre está en las noticias"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "countrySpecific": false,
+   "id": "119235",
+   "position": "THIRD",
+   "prompts": [
+    "Como el político indignado en la audiencia de un criminal"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119236",
+   "position": "THIRD",
+   "prompts": [
+    "Como el misterioso jardinero anciano"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "countrySpecific": true,
+   "id": "119237",
+   "position": "THIRD",
+   "prompts": [
+    "Como una esposa cuyo esposo aún no ha vuelto de la guerra civil de EE.UU."
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119238",
+   "position": "THIRD",
+   "prompts": [
+    "Como una chica ruda que tira en el pool tan bien como los chicos"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119242",
+   "position": "THIRD",
+   "prompts": [
+    "Como el CEO de esa compañía que maneja todo en el futuro"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119243",
+   "position": "THIRD",
+   "prompts": [
+    "Como la colegiala que en secreto es una asesina"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119244",
+   "position": "THIRD",
+   "prompts": [
+    "Como la criatura que los niños del pueblo creían que era solo un cuento"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119269",
+   "position": "THIRD",
+   "prompts": [
+    "Como un/a estudiante de arte extravagante que es taaaan espontáneo/a"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119271",
+   "position": "THIRD",
+   "prompts": [
+    "Como un vaquero rudo con un buen corazón"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119272",
+   "position": "THIRD",
+   "prompts": [
+    "Como un rudo pero amable gnomo de las montañas"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119273",
+   "position": "THIRD",
+   "prompts": [
+    "Como un pretendiente aceptable suplicando a un hombre por la mano de su hija en matrimonio"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "119298",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} dice \"¿Puedo leer un poema que escribí para ti?\""
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119371",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando te escabulles en la Baticueva y encuentras a Batman en el baño"
+   ],
+   "selfieDirection": "",
+   "x": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119374",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando tus sandalias huyen cuando intentas tomarlas"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "119378",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando estás por pasar por el quirófano y descubres que {{PLAYER}} será tu cirujano/a"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119380",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando tu maldito esqueleto trata de saltar de tu boca otra vez"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119383",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando comiste una semilla hace seis semanas y ahora estás defecando una sandía"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119384",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando descubres que la “esposa” de tu amigo es un maniquí"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119385",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando te despiertas por un segundo en el líquido de Matrix pero ahora vuelves al trabajo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119388",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando de repente puedes moverte más rápido que la velocidad de la luz"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119389",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando todo lo que tocas se convierte en carne vacuna"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119391",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando tus amigos del bosque te hacen un hermoso vestido"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119398",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando empiezas a sospechar que este baño caliente es en realidad un estofado"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119399",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara en tu audiencia de la corte cuando tu juez es tu mejor amigo de 3er grado"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "119400",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo \"Siento que nací en el tiempo equivocado.\""
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "119401",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo \"¿Quieren saber nuestros especiales?\""
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "119402",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo \"¡Todos abajo!\""
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119626",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando miras hacia abajo y te das cuenta que acabas de caer del borde de un precipicio"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119627",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando se revienta un enorme grano y salen montones de arañas"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119645",
+   "position": "FIRST",
+   "prompts": [
+    "Tu cara cuando tienes un sueño en el que estás desnudo/a en el trabajo"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "119698",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo \"¡Nunca tienes demasiados gatos!\""
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119741",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando el hipnotista chasquea los dedos y ahora eres un pollo"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "119781",
+   "position": "SECOND",
+   "prompts": [
+    "La cara de alguien diciendo “¡Em, DISCULPA, hay una fila!”"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119946",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando espías un agujero de árbol y observas una numerosa sociedad de tipitos pequeñitos"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119947",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando la tetera, en lugar de hacer un silbido, grita con voz de hombre"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119950",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando caes en un montón de curitas usadas y húmedas"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "120273",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando: ¡sorpresa! ¡{{PLAYER}} te sirvió sustituto cárnico sintético!"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "PLAYER",
+   "id": "120275",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} canta en voz alta junto a las canciones del show de Broadway"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "120276",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando descubres que el justiciero enmascarado que protege la ciudad es {{PLAYER}}"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "120277",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} se va de la habitación, y regresa con un disfraz de Hobbit hecho a mano"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "120278",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando {{PLAYER}} te lleva en su auto que armó por su cuenta"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "120360",
+   "position": "THIRD",
+   "prompts": [
+    "Como un amable y animal de granja anciano con mucha sabiduría para compartir"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "120850",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando escuchas que {{PLAYER}} “va a intentar hacer stand-up”"
+   ],
+   "selfieDirection": ""
+  }
+ ]
+}

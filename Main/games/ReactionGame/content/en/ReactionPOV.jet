@@ -1,0 +1,500 @@
+{
+ "content": [
+  {
+   "altText": "A cat vomiting in backyard grass.",
+   "category": "POV",
+   "id": "116301",
+   "position": "SECOND",
+   "prompts": [
+    "Tu reacción cuando sales a caminar y ves esto:"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "altText": "A tattooed white man aggressively eating Buffalo chicken wings in a white tank top covered in sauce.",
+   "category": "POV",
+   "id": "116302",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando esta es tu cita:"
+   ],
+   "selfieDirection": "",
+   "starterContent": false,
+   "x": true
+  },
+  {
+   "altText": "A long queue of people leading up to a door atop a staircase in a nondescript, windowless building.",
+   "category": "POV",
+   "id": "116303",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando este ha sido tu punto de vista en los últimos cincuenta minutos:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "From below, two doctors in surgical masks reaching out with surgical tools ready.",
+   "category": "POV",
+   "id": "116304",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando despiertas y ves esto:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "An aggressively angry suited man pointing a finger at the camera and shouting.",
+   "category": "POV",
+   "id": "116305",
+   "position": "SECOND",
+   "prompts": [
+    "Tu reacción cuando este es tu jefe:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "An open door in a bare room where a horrific looking bloodied figure in a dress with long hair stares at you from the hall.",
+   "category": "POV",
+   "id": "116306",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando despiertas de una pijamada y ves esto:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A colorful, smiling clown crouched menacingly in a flooded gutter.",
+   "category": "POV",
+   "id": "116307",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando te encuentras con esta escena:"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "altText": "A photo downwards at two feet in midair high above a coastal skyline.",
+   "category": "POV",
+   "id": "116308",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando este es tu punto de vista actual:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A kitchen sink buried under a mountain of dirty dishes, lit by an undercabinet light.",
+   "category": "POV",
+   "id": "116309",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando llegas a casa después de un largo día y te encuentras esto:"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "altText": "A photo from above of a shirtless young man doing a bench press, smiling mysteriously.",
+   "category": "POV",
+   "id": "116310",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando tu bro te pide que le sigas la repe así:"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "altText": "A barebones, dirty public restroom in a basement.",
+   "category": "POV",
+   "id": "116311",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando este es el único baño en tu hotel:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Photo of a young man in an ill-fitting suit presenting a large pile and suitcase of money.",
+   "category": "POV",
+   "id": "116386",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando vienes a trabajar y te encuentras con esto:"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "altText": "Photo of an overly exuberant young man in a beige cardigan holding both hands of the person.",
+   "category": "POV",
+   "id": "116387",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando este es tu punto de vista actual:"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "altText": "Hip young man in a cozy bed with camper back doors open overlooking a lake view, cheersing with a cup.",
+   "category": "POV",
+   "id": "116388",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando esto es lo que ves:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A filthy bedframe filled with an assortment of wretched clothes in a small, dirty room.",
+   "category": "POV",
+   "id": "116389",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando este es tu alquiler por la noche:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Photo of hands up in a frightened pose staring up at an open dungeon door.",
+   "category": "POV",
+   "id": "117264",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando es el día 27 en el laberinto y ves esto:"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "altText": "An urban skyline with massive rocks and fire falling from the sky.",
+   "category": "POV",
+   "id": "117265",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando esta es la vista de tu departamento:"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "altText": "A disappointed young woman with one hand on her head, looking at a heart-shaped ring box.",
+   "category": "POV",
+   "id": "117266",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando ella reacciona así:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A muddy toddler with blonde pigtails pulling her hair and throwing a tantrum.",
+   "category": "POV",
+   "id": "117267",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando esto viene así treinta minutos y contando:"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "altText": "A silhouette of a crowd as a massive demon/dragon rises from red smoke.",
+   "category": "POV",
+   "id": "117268",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando esta es tu noche de sábado:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A happy bald man with a yellow tie lying on his stomach using a laptop, legs crossed at the ankle.",
+   "category": "POV",
+   "id": "118523",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando arrancas en un nuevo trabajo y tu gerente trabaja así:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A gaggle of paparazzi behind a red rope, camera flashes going off.",
+   "category": "POV",
+   "id": "118524",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando ves esto cuando sales del baño"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A blonde woman sinking her teeth into a large, raw beef steak while making eye contact.",
+   "category": "POV",
+   "id": "118525",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando tu compañera de trabajo le entra a su almuerzo así:"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "altText": "A trepidatious looking tattoo artist ready to tattoo an arm.",
+   "category": "POV",
+   "id": "118548",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando el tatuador te mira así:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Three friends drinking beer at a bar looking smilingly at the camera.",
+   "category": "POV",
+   "id": "119029",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando estos tres te están mirando así desde el otro lado del bar:"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "altText": "An angry, tough-looking boxer in a ring about to punch the camera.",
+   "category": "POV",
+   "id": "119032",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando vas a enfrentarte a este muchacho:"
+   ],
+   "selfieDirection": "",
+   "starterContent": false
+  },
+  {
+   "altText": "A boy in an argyle sweater vest stomping and destroying a new toy truck at Christmas.",
+   "category": "POV",
+   "id": "119033",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando tu hijo actúa así:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A hand reaching into a hole, from inside the hole.",
+   "category": "POV",
+   "id": "119034",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando ves que esto aparece en tu escondite:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "An unsettling Santa Claus in a rubber mask greets a small child in a living room.",
+   "category": "POV",
+   "id": "119183",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando descubres que así se ve Papá Noel:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Photo of a couple coming in for a double kiss to camera.",
+   "category": "POV",
+   "id": "119293",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando estos dos vienen a saludarte así:"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "altText": "Photo of the back of a fisherman in a rowboat headed toward shore in heavy waves.",
+   "category": "POV",
+   "id": "119294",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando el recorrido en barco de una hora por la bahía se vuelve 8 horas de esto:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A pet ferret.",
+   "category": "POV",
+   "id": "120854",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando te enteras que tu nuevo interés romántico tiene seis de estos:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A ruined chocolate cake with a chisel lying next to it, covered in cake.",
+   "category": "POV",
+   "id": "120855",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando está por llegar una multitud y esto trajo la pastelería:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A complicated WW2 fighter jet cockpit, from the pilot’s seat.",
+   "category": "POV",
+   "id": "120856",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando estás en un sueño y ves esto:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A very goofy-looking tiny dog with its tongue hanging out.",
+   "category": "POV",
+   "id": "120857",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando tu pareja trae esto a casa:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A collection of unsettling Victorian dolls.",
+   "category": "POV",
+   "id": "120858",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando despiertas con estas todas las mañanas:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A leather armchair and tall stack of very thick books.",
+   "category": "POV",
+   "id": "120859",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando esta es tu única actividad de fin de semana:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A humble cabin in the middle of a vast forest.",
+   "category": "POV",
+   "id": "120860",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando este es tu nuevo hogar:"
+   ],
+   "selfieDirection": "www.gettyimages.com/detail/photo/aerial-view-of-boreal-nature-forest-river-and-log-royalty-free-image/1340350864?slot=2&adppopup=true"
+  },
+  {
+   "altText": "A young doctor with bleached blonde hair, a clown nose and multiple piercings, mouth open excitedly.",
+   "category": "POV",
+   "id": "120861",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando este es tu nuevo médico:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "The scattered pieces of an unfinished, complicated jigsaw puzzle.",
+   "category": "POV",
+   "id": "120862",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando tienes tres horas para resolver esto:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A microphone as seen from standing behind it, looking out at a full stadium.",
+   "category": "POV",
+   "id": "120863",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando, en el clamor de la multitud, ves esto:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A nuclear power plant at sunset, two giant concrete smokestacks at center.",
+   "category": "POV",
+   "id": "120864",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando tu nuevo y genial departamento está al lado de esto:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A night sky filled with red and yellow fireworks.",
+   "category": "POV",
+   "id": "120865",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando estás viendo esto:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A pleasant-looking bearded older man in rural clothing, holding a big farming tool.",
+   "category": "POV",
+   "id": "121292",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando este tipo comienza a contar otra de sus fábulas interminables:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A glowing, futuristic computer cube with various wires connected to it.",
+   "category": "POV",
+   "id": "121293",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando es hora de conocer a tu nuevo jefe y es esto:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "A murder of seven crows on the ground.",
+   "category": "POV",
+   "id": "121294",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando un grupo de estos te siguen a todas partes:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Inside the curl of a large, intimidating ocean wave.",
+   "category": "POV",
+   "id": "121295",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando estás montando una ola y vas a toda velocidad hacia esto:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "The tiniest, most insignificant portion of cube-shaped food on a clean plate with silver cutlery.",
+   "category": "POV",
+   "countrySpecific": true,
+   "id": "121296",
+   "position": "SECOND",
+   "prompts": [
+    "Tu cara cuando pagaste 275 dólares y esto es lo que te trajeron:"
+   ],
+   "selfieDirection": ""
+  }
+ ]
+}
