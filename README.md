@@ -4,7 +4,7 @@ Parche de traducción no oficial de [Jackbox en español](https://traducciones.j
 
 - **Estado de traducción:** Idol Factions y Debate and Switch no están traducidos. Quedan traducir elementos varios de los SWFs, y algunos textos alternativos de imágenes varias.
 - **Estado de doblaje:** No hay doblajes en el parche.
-- **Versión:** 1450-ES
+- **Versión:** 1450.1-ES
 - **Plataformas soportadas:** Steam, Epic Games Store
 
 ## Cómo utilizar
