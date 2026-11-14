@@ -4,7 +4,7 @@
 	"gameId":"9c5f38c5-3677-497c-b808-8628805e8096",
 	"loadSaveOnLaunch":"true",
 	"showBuildVersion":"true",
-	"joinUrl":"jackbox.tv",
+	"joinUrl":"jackbox.lol",
 	"serverUrl":"ecast.jackboxgames.com",
 	"imageResolution":"512",
 	"flashKeyboard":"true",
